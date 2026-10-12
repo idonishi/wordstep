@@ -1,0 +1,10502 @@
+[
+  {
+    "id": "v001",
+    "word": "be",
+    "meanings": [
+      "〜である"
+    ],
+    "exampleEn": "I need to be today.",
+    "exampleJa": "今日は〜である必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "be"
+    ]
+  },
+  {
+    "id": "v002",
+    "word": "have",
+    "meanings": [
+      "持っている"
+    ],
+    "exampleEn": "I need to have today.",
+    "exampleJa": "今日は持っている必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "have"
+    ]
+  },
+  {
+    "id": "v003",
+    "word": "do",
+    "meanings": [
+      "する"
+    ],
+    "exampleEn": "I need to do today.",
+    "exampleJa": "今日はする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "do"
+    ]
+  },
+  {
+    "id": "v004",
+    "word": "make",
+    "meanings": [
+      "作る"
+    ],
+    "exampleEn": "I need to make today.",
+    "exampleJa": "今日は作る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "make"
+    ]
+  },
+  {
+    "id": "v005",
+    "word": "get",
+    "meanings": [
+      "手に入れる・〜になる"
+    ],
+    "exampleEn": "I need to get today.",
+    "exampleJa": "今日は手に入れる・〜になる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "get"
+    ]
+  },
+  {
+    "id": "v006",
+    "word": "go",
+    "meanings": [
+      "行く"
+    ],
+    "exampleEn": "I need to go today.",
+    "exampleJa": "今日は行く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "go"
+    ]
+  },
+  {
+    "id": "v007",
+    "word": "come",
+    "meanings": [
+      "来る"
+    ],
+    "exampleEn": "I need to come today.",
+    "exampleJa": "今日は来る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "come"
+    ]
+  },
+  {
+    "id": "v008",
+    "word": "take",
+    "meanings": [
+      "取る"
+    ],
+    "exampleEn": "I need to take today.",
+    "exampleJa": "今日は取る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "take"
+    ]
+  },
+  {
+    "id": "v009",
+    "word": "give",
+    "meanings": [
+      "与える"
+    ],
+    "exampleEn": "I need to give today.",
+    "exampleJa": "今日は与える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "give"
+    ]
+  },
+  {
+    "id": "v010",
+    "word": "know",
+    "meanings": [
+      "知っている"
+    ],
+    "exampleEn": "I need to know today.",
+    "exampleJa": "今日は知っている必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "know"
+    ]
+  },
+  {
+    "id": "v011",
+    "word": "think",
+    "meanings": [
+      "考える"
+    ],
+    "exampleEn": "I need to think today.",
+    "exampleJa": "今日は考える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "think"
+    ]
+  },
+  {
+    "id": "v012",
+    "word": "feel",
+    "meanings": [
+      "感じる"
+    ],
+    "exampleEn": "I need to feel today.",
+    "exampleJa": "今日は感じる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "feel"
+    ]
+  },
+  {
+    "id": "v013",
+    "word": "want",
+    "meanings": [
+      "欲しい"
+    ],
+    "exampleEn": "I need to want today.",
+    "exampleJa": "今日は欲しい必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "want"
+    ]
+  },
+  {
+    "id": "v014",
+    "word": "need",
+    "meanings": [
+      "必要とする"
+    ],
+    "exampleEn": "I need to need today.",
+    "exampleJa": "今日は必要とする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "need"
+    ]
+  },
+  {
+    "id": "v015",
+    "word": "use",
+    "meanings": [
+      "使う"
+    ],
+    "exampleEn": "I need to use today.",
+    "exampleJa": "今日は使う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "use"
+    ]
+  },
+  {
+    "id": "v016",
+    "word": "find",
+    "meanings": [
+      "見つける"
+    ],
+    "exampleEn": "I need to find today.",
+    "exampleJa": "今日は見つける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "find"
+    ]
+  },
+  {
+    "id": "v017",
+    "word": "tell",
+    "meanings": [
+      "伝える"
+    ],
+    "exampleEn": "I need to tell today.",
+    "exampleJa": "今日は伝える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "tell"
+    ]
+  },
+  {
+    "id": "v018",
+    "word": "ask",
+    "meanings": [
+      "尋ねる"
+    ],
+    "exampleEn": "I need to ask today.",
+    "exampleJa": "今日は尋ねる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "ask"
+    ]
+  },
+  {
+    "id": "v019",
+    "word": "work",
+    "meanings": [
+      "働く"
+    ],
+    "exampleEn": "I need to work today.",
+    "exampleJa": "今日は働く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "work"
+    ]
+  },
+  {
+    "id": "v020",
+    "word": "try",
+    "meanings": [
+      "試す"
+    ],
+    "exampleEn": "I need to try today.",
+    "exampleJa": "今日は試す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "try"
+    ]
+  },
+  {
+    "id": "v021",
+    "word": "leave",
+    "meanings": [
+      "去る・残す"
+    ],
+    "exampleEn": "I need to leave today.",
+    "exampleJa": "今日は去る・残す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "leave"
+    ]
+  },
+  {
+    "id": "v022",
+    "word": "call",
+    "meanings": [
+      "電話する・呼ぶ"
+    ],
+    "exampleEn": "I need to call today.",
+    "exampleJa": "今日は電話する・呼ぶ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "call"
+    ]
+  },
+  {
+    "id": "v023",
+    "word": "keep",
+    "meanings": [
+      "保つ"
+    ],
+    "exampleEn": "I need to keep today.",
+    "exampleJa": "今日は保つ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "keep"
+    ]
+  },
+  {
+    "id": "v024",
+    "word": "let",
+    "meanings": [
+      "〜させる"
+    ],
+    "exampleEn": "I need to let today.",
+    "exampleJa": "今日は〜させる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "let"
+    ]
+  },
+  {
+    "id": "v025",
+    "word": "begin",
+    "meanings": [
+      "始める"
+    ],
+    "exampleEn": "I need to begin today.",
+    "exampleJa": "今日は始める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "begin"
+    ]
+  },
+  {
+    "id": "v026",
+    "word": "help",
+    "meanings": [
+      "助ける"
+    ],
+    "exampleEn": "I need to help today.",
+    "exampleJa": "今日は助ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "help"
+    ]
+  },
+  {
+    "id": "v027",
+    "word": "talk",
+    "meanings": [
+      "話す"
+    ],
+    "exampleEn": "I need to talk today.",
+    "exampleJa": "今日は話す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "talk"
+    ]
+  },
+  {
+    "id": "v028",
+    "word": "turn",
+    "meanings": [
+      "回す・変わる"
+    ],
+    "exampleEn": "I need to turn today.",
+    "exampleJa": "今日は回す・変わる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "turn"
+    ]
+  },
+  {
+    "id": "v029",
+    "word": "start",
+    "meanings": [
+      "始める"
+    ],
+    "exampleEn": "I need to start today.",
+    "exampleJa": "今日は始める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "start"
+    ]
+  },
+  {
+    "id": "v030",
+    "word": "show",
+    "meanings": [
+      "見せる"
+    ],
+    "exampleEn": "I need to show today.",
+    "exampleJa": "今日は見せる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "show"
+    ]
+  },
+  {
+    "id": "v031",
+    "word": "hear",
+    "meanings": [
+      "聞こえる"
+    ],
+    "exampleEn": "I need to hear today.",
+    "exampleJa": "今日は聞こえる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "hear"
+    ]
+  },
+  {
+    "id": "v032",
+    "word": "play",
+    "meanings": [
+      "遊ぶ・演奏する"
+    ],
+    "exampleEn": "I need to play today.",
+    "exampleJa": "今日は遊ぶ・演奏する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "play"
+    ]
+  },
+  {
+    "id": "v033",
+    "word": "run",
+    "meanings": [
+      "走る・運営する"
+    ],
+    "exampleEn": "I need to run today.",
+    "exampleJa": "今日は走る・運営する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "run"
+    ]
+  },
+  {
+    "id": "v034",
+    "word": "move",
+    "meanings": [
+      "動く"
+    ],
+    "exampleEn": "I need to move today.",
+    "exampleJa": "今日は動く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "move"
+    ]
+  },
+  {
+    "id": "v035",
+    "word": "live",
+    "meanings": [
+      "住む・生きる"
+    ],
+    "exampleEn": "I need to live today.",
+    "exampleJa": "今日は住む・生きる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "live"
+    ]
+  },
+  {
+    "id": "v036",
+    "word": "believe",
+    "meanings": [
+      "信じる"
+    ],
+    "exampleEn": "I need to believe today.",
+    "exampleJa": "今日は信じる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "believe"
+    ]
+  },
+  {
+    "id": "v037",
+    "word": "bring",
+    "meanings": [
+      "持ってくる"
+    ],
+    "exampleEn": "I need to bring today.",
+    "exampleJa": "今日は持ってくる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "bring"
+    ]
+  },
+  {
+    "id": "v038",
+    "word": "happen",
+    "meanings": [
+      "起こる"
+    ],
+    "exampleEn": "I need to happen today.",
+    "exampleJa": "今日は起こる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "happen"
+    ]
+  },
+  {
+    "id": "v039",
+    "word": "write",
+    "meanings": [
+      "書く"
+    ],
+    "exampleEn": "I need to write today.",
+    "exampleJa": "今日は書く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "write"
+    ]
+  },
+  {
+    "id": "v040",
+    "word": "provide",
+    "meanings": [
+      "提供する"
+    ],
+    "exampleEn": "I need to provide today.",
+    "exampleJa": "今日は提供する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "provide"
+    ]
+  },
+  {
+    "id": "v041",
+    "word": "sit",
+    "meanings": [
+      "座る"
+    ],
+    "exampleEn": "I need to sit today.",
+    "exampleJa": "今日は座る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "sit"
+    ]
+  },
+  {
+    "id": "v042",
+    "word": "stand",
+    "meanings": [
+      "立つ"
+    ],
+    "exampleEn": "I need to stand today.",
+    "exampleJa": "今日は立つ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "stand"
+    ]
+  },
+  {
+    "id": "v043",
+    "word": "lose",
+    "meanings": [
+      "失う・負ける"
+    ],
+    "exampleEn": "I need to lose today.",
+    "exampleJa": "今日は失う・負ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "lose"
+    ]
+  },
+  {
+    "id": "v044",
+    "word": "pay",
+    "meanings": [
+      "支払う"
+    ],
+    "exampleEn": "I need to pay today.",
+    "exampleJa": "今日は支払う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "pay"
+    ]
+  },
+  {
+    "id": "v045",
+    "word": "meet",
+    "meanings": [
+      "会う"
+    ],
+    "exampleEn": "I need to meet today.",
+    "exampleJa": "今日は会う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "meet"
+    ]
+  },
+  {
+    "id": "v046",
+    "word": "include",
+    "meanings": [
+      "含む"
+    ],
+    "exampleEn": "I need to include today.",
+    "exampleJa": "今日は含む必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "include"
+    ]
+  },
+  {
+    "id": "v047",
+    "word": "continue",
+    "meanings": [
+      "続ける"
+    ],
+    "exampleEn": "I need to continue today.",
+    "exampleJa": "今日は続ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "continue"
+    ]
+  },
+  {
+    "id": "v048",
+    "word": "learn",
+    "meanings": [
+      "学ぶ"
+    ],
+    "exampleEn": "I need to learn today.",
+    "exampleJa": "今日は学ぶ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "learn"
+    ]
+  },
+  {
+    "id": "v049",
+    "word": "change",
+    "meanings": [
+      "変える"
+    ],
+    "exampleEn": "I need to change today.",
+    "exampleJa": "今日は変える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "change"
+    ]
+  },
+  {
+    "id": "v050",
+    "word": "understand",
+    "meanings": [
+      "理解する"
+    ],
+    "exampleEn": "I need to understand today.",
+    "exampleJa": "今日は理解する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "understand"
+    ]
+  },
+  {
+    "id": "v051",
+    "word": "watch",
+    "meanings": [
+      "見る"
+    ],
+    "exampleEn": "I need to watch today.",
+    "exampleJa": "今日は見る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "watch"
+    ]
+  },
+  {
+    "id": "v052",
+    "word": "follow",
+    "meanings": [
+      "従う"
+    ],
+    "exampleEn": "I need to follow today.",
+    "exampleJa": "今日は従う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "follow"
+    ]
+  },
+  {
+    "id": "v053",
+    "word": "stop",
+    "meanings": [
+      "止める"
+    ],
+    "exampleEn": "I need to stop today.",
+    "exampleJa": "今日は止める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "stop"
+    ]
+  },
+  {
+    "id": "v054",
+    "word": "create",
+    "meanings": [
+      "作り出す"
+    ],
+    "exampleEn": "I need to create today.",
+    "exampleJa": "今日は作り出す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "create"
+    ]
+  },
+  {
+    "id": "v055",
+    "word": "speak",
+    "meanings": [
+      "話す"
+    ],
+    "exampleEn": "I need to speak today.",
+    "exampleJa": "今日は話す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "speak"
+    ]
+  },
+  {
+    "id": "v056",
+    "word": "read",
+    "meanings": [
+      "読む"
+    ],
+    "exampleEn": "I need to read today.",
+    "exampleJa": "今日は読む必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "read"
+    ]
+  },
+  {
+    "id": "v057",
+    "word": "allow",
+    "meanings": [
+      "許可する"
+    ],
+    "exampleEn": "I need to allow today.",
+    "exampleJa": "今日は許可する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "allow"
+    ]
+  },
+  {
+    "id": "v058",
+    "word": "add",
+    "meanings": [
+      "加える"
+    ],
+    "exampleEn": "I need to add today.",
+    "exampleJa": "今日は加える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "add"
+    ]
+  },
+  {
+    "id": "v059",
+    "word": "spend",
+    "meanings": [
+      "費やす"
+    ],
+    "exampleEn": "I need to spend today.",
+    "exampleJa": "今日は費やす必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "spend"
+    ]
+  },
+  {
+    "id": "v060",
+    "word": "grow",
+    "meanings": [
+      "成長する"
+    ],
+    "exampleEn": "I need to grow today.",
+    "exampleJa": "今日は成長する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "grow"
+    ]
+  },
+  {
+    "id": "v061",
+    "word": "open",
+    "meanings": [
+      "開ける"
+    ],
+    "exampleEn": "I need to open today.",
+    "exampleJa": "今日は開ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "open"
+    ]
+  },
+  {
+    "id": "v062",
+    "word": "walk",
+    "meanings": [
+      "歩く"
+    ],
+    "exampleEn": "I need to walk today.",
+    "exampleJa": "今日は歩く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "walk"
+    ]
+  },
+  {
+    "id": "v063",
+    "word": "win",
+    "meanings": [
+      "勝つ"
+    ],
+    "exampleEn": "I need to win today.",
+    "exampleJa": "今日は勝つ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "win"
+    ]
+  },
+  {
+    "id": "v064",
+    "word": "offer",
+    "meanings": [
+      "申し出る"
+    ],
+    "exampleEn": "I need to offer today.",
+    "exampleJa": "今日は申し出る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "offer"
+    ]
+  },
+  {
+    "id": "v065",
+    "word": "remember",
+    "meanings": [
+      "覚えている"
+    ],
+    "exampleEn": "I need to remember today.",
+    "exampleJa": "今日は覚えている必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "remember"
+    ]
+  },
+  {
+    "id": "v066",
+    "word": "love",
+    "meanings": [
+      "大好きである"
+    ],
+    "exampleEn": "I need to love today.",
+    "exampleJa": "今日は大好きである必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "love"
+    ]
+  },
+  {
+    "id": "v067",
+    "word": "consider",
+    "meanings": [
+      "検討する"
+    ],
+    "exampleEn": "I need to consider today.",
+    "exampleJa": "今日は検討する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "consider"
+    ]
+  },
+  {
+    "id": "v068",
+    "word": "appear",
+    "meanings": [
+      "現れる"
+    ],
+    "exampleEn": "I need to appear today.",
+    "exampleJa": "今日は現れる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "appear"
+    ]
+  },
+  {
+    "id": "v069",
+    "word": "buy",
+    "meanings": [
+      "買う"
+    ],
+    "exampleEn": "I need to buy today.",
+    "exampleJa": "今日は買う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "buy"
+    ]
+  },
+  {
+    "id": "v070",
+    "word": "wait",
+    "meanings": [
+      "待つ"
+    ],
+    "exampleEn": "I need to wait today.",
+    "exampleJa": "今日は待つ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "wait"
+    ]
+  },
+  {
+    "id": "v071",
+    "word": "serve",
+    "meanings": [
+      "提供する"
+    ],
+    "exampleEn": "I need to serve today.",
+    "exampleJa": "今日は提供する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "serve"
+    ]
+  },
+  {
+    "id": "v072",
+    "word": "send",
+    "meanings": [
+      "送る"
+    ],
+    "exampleEn": "I need to send today.",
+    "exampleJa": "今日は送る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "send"
+    ]
+  },
+  {
+    "id": "v073",
+    "word": "expect",
+    "meanings": [
+      "予期する"
+    ],
+    "exampleEn": "I need to expect today.",
+    "exampleJa": "今日は予期する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "expect"
+    ]
+  },
+  {
+    "id": "v074",
+    "word": "build",
+    "meanings": [
+      "建てる・築く"
+    ],
+    "exampleEn": "I need to build today.",
+    "exampleJa": "今日は建てる・築く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "build"
+    ]
+  },
+  {
+    "id": "v075",
+    "word": "stay",
+    "meanings": [
+      "滞在する"
+    ],
+    "exampleEn": "I need to stay today.",
+    "exampleJa": "今日は滞在する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "stay"
+    ]
+  },
+  {
+    "id": "v076",
+    "word": "fall",
+    "meanings": [
+      "落ちる"
+    ],
+    "exampleEn": "I need to fall today.",
+    "exampleJa": "今日は落ちる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "fall"
+    ]
+  },
+  {
+    "id": "v077",
+    "word": "cut",
+    "meanings": [
+      "切る"
+    ],
+    "exampleEn": "I need to cut today.",
+    "exampleJa": "今日は切る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "cut"
+    ]
+  },
+  {
+    "id": "v078",
+    "word": "reach",
+    "meanings": [
+      "到達する"
+    ],
+    "exampleEn": "I need to reach today.",
+    "exampleJa": "今日は到達する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "reach"
+    ]
+  },
+  {
+    "id": "v079",
+    "word": "remain",
+    "meanings": [
+      "残る"
+    ],
+    "exampleEn": "I need to remain today.",
+    "exampleJa": "今日は残る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "remain"
+    ]
+  },
+  {
+    "id": "v080",
+    "word": "raise",
+    "meanings": [
+      "上げる"
+    ],
+    "exampleEn": "I need to raise today.",
+    "exampleJa": "今日は上げる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "raise"
+    ]
+  },
+  {
+    "id": "v081",
+    "word": "pass",
+    "meanings": [
+      "通る・合格する"
+    ],
+    "exampleEn": "I need to pass today.",
+    "exampleJa": "今日は通る・合格する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "pass"
+    ]
+  },
+  {
+    "id": "v082",
+    "word": "sell",
+    "meanings": [
+      "売る"
+    ],
+    "exampleEn": "I need to sell today.",
+    "exampleJa": "今日は売る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "sell"
+    ]
+  },
+  {
+    "id": "v083",
+    "word": "report",
+    "meanings": [
+      "報告する"
+    ],
+    "exampleEn": "I need to report today.",
+    "exampleJa": "今日は報告する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "report"
+    ]
+  },
+  {
+    "id": "v084",
+    "word": "decide",
+    "meanings": [
+      "決める"
+    ],
+    "exampleEn": "I need to decide today.",
+    "exampleJa": "今日は決める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "decide"
+    ]
+  },
+  {
+    "id": "v085",
+    "word": "pull",
+    "meanings": [
+      "引く"
+    ],
+    "exampleEn": "I need to pull today.",
+    "exampleJa": "今日は引く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "pull"
+    ]
+  },
+  {
+    "id": "v086",
+    "word": "return",
+    "meanings": [
+      "戻る・返す"
+    ],
+    "exampleEn": "I need to return today.",
+    "exampleJa": "今日は戻る・返す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "return"
+    ]
+  },
+  {
+    "id": "v087",
+    "word": "explain",
+    "meanings": [
+      "説明する"
+    ],
+    "exampleEn": "I need to explain today.",
+    "exampleJa": "今日は説明する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "explain"
+    ]
+  },
+  {
+    "id": "v088",
+    "word": "hope",
+    "meanings": [
+      "望む"
+    ],
+    "exampleEn": "I need to hope today.",
+    "exampleJa": "今日は望む必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "hope"
+    ]
+  },
+  {
+    "id": "v089",
+    "word": "develop",
+    "meanings": [
+      "発達させる"
+    ],
+    "exampleEn": "I need to develop today.",
+    "exampleJa": "今日は発達させる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "develop"
+    ]
+  },
+  {
+    "id": "v090",
+    "word": "carry",
+    "meanings": [
+      "運ぶ"
+    ],
+    "exampleEn": "I need to carry today.",
+    "exampleJa": "今日は運ぶ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "carry"
+    ]
+  },
+  {
+    "id": "v091",
+    "word": "break",
+    "meanings": [
+      "壊す"
+    ],
+    "exampleEn": "I need to break today.",
+    "exampleJa": "今日は壊す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "break"
+    ]
+  },
+  {
+    "id": "v092",
+    "word": "receive",
+    "meanings": [
+      "受け取る"
+    ],
+    "exampleEn": "I need to receive today.",
+    "exampleJa": "今日は受け取る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "receive"
+    ]
+  },
+  {
+    "id": "v093",
+    "word": "agree",
+    "meanings": [
+      "賛成する"
+    ],
+    "exampleEn": "I need to agree today.",
+    "exampleJa": "今日は賛成する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "agree"
+    ]
+  },
+  {
+    "id": "v094",
+    "word": "support",
+    "meanings": [
+      "支える"
+    ],
+    "exampleEn": "I need to support today.",
+    "exampleJa": "今日は支える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "support"
+    ]
+  },
+  {
+    "id": "v095",
+    "word": "hit",
+    "meanings": [
+      "打つ"
+    ],
+    "exampleEn": "I need to hit today.",
+    "exampleJa": "今日は打つ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "hit"
+    ]
+  },
+  {
+    "id": "v096",
+    "word": "produce",
+    "meanings": [
+      "生産する"
+    ],
+    "exampleEn": "I need to produce today.",
+    "exampleJa": "今日は生産する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "produce"
+    ]
+  },
+  {
+    "id": "v097",
+    "word": "eat",
+    "meanings": [
+      "食べる"
+    ],
+    "exampleEn": "I need to eat today.",
+    "exampleJa": "今日は食べる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "eat"
+    ]
+  },
+  {
+    "id": "v098",
+    "word": "drink",
+    "meanings": [
+      "飲む"
+    ],
+    "exampleEn": "I need to drink today.",
+    "exampleJa": "今日は飲む必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "drink"
+    ]
+  },
+  {
+    "id": "v099",
+    "word": "sleep",
+    "meanings": [
+      "眠る"
+    ],
+    "exampleEn": "I need to sleep today.",
+    "exampleJa": "今日は眠る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "v100",
+    "word": "drive",
+    "meanings": [
+      "運転する"
+    ],
+    "exampleEn": "I need to drive today.",
+    "exampleJa": "今日は運転する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "drive"
+    ]
+  },
+  {
+    "id": "v101",
+    "word": "choose",
+    "meanings": [
+      "選ぶ"
+    ],
+    "exampleEn": "I need to choose today.",
+    "exampleJa": "今日は選ぶ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "choose"
+    ]
+  },
+  {
+    "id": "v102",
+    "word": "forget",
+    "meanings": [
+      "忘れる"
+    ],
+    "exampleEn": "I need to forget today.",
+    "exampleJa": "今日は忘れる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "forget"
+    ]
+  },
+  {
+    "id": "v103",
+    "word": "wear",
+    "meanings": [
+      "着る"
+    ],
+    "exampleEn": "I need to wear today.",
+    "exampleJa": "今日は着る必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "wear"
+    ]
+  },
+  {
+    "id": "v104",
+    "word": "save",
+    "meanings": [
+      "保存する・節約する"
+    ],
+    "exampleEn": "I need to save today.",
+    "exampleJa": "今日は保存する・節約する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "save"
+    ]
+  },
+  {
+    "id": "v105",
+    "word": "check",
+    "meanings": [
+      "確認する"
+    ],
+    "exampleEn": "I need to check today.",
+    "exampleJa": "今日は確認する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "check"
+    ]
+  },
+  {
+    "id": "v106",
+    "word": "share",
+    "meanings": [
+      "共有する"
+    ],
+    "exampleEn": "I need to share today.",
+    "exampleJa": "今日は共有する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "share"
+    ]
+  },
+  {
+    "id": "v107",
+    "word": "enjoy",
+    "meanings": [
+      "楽しむ"
+    ],
+    "exampleEn": "I need to enjoy today.",
+    "exampleJa": "今日は楽しむ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "enjoy"
+    ]
+  },
+  {
+    "id": "v108",
+    "word": "avoid",
+    "meanings": [
+      "避ける"
+    ],
+    "exampleEn": "I need to avoid today.",
+    "exampleJa": "今日は避ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "avoid"
+    ]
+  },
+  {
+    "id": "v109",
+    "word": "improve",
+    "meanings": [
+      "改善する"
+    ],
+    "exampleEn": "I need to improve today.",
+    "exampleJa": "今日は改善する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "improve"
+    ]
+  },
+  {
+    "id": "v110",
+    "word": "prepare",
+    "meanings": [
+      "準備する"
+    ],
+    "exampleEn": "I need to prepare today.",
+    "exampleJa": "今日は準備する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "prepare"
+    ]
+  },
+  {
+    "id": "v111",
+    "word": "discover",
+    "meanings": [
+      "発見する"
+    ],
+    "exampleEn": "I need to discover today.",
+    "exampleJa": "今日は発見する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "discover"
+    ]
+  },
+  {
+    "id": "v112",
+    "word": "solve",
+    "meanings": [
+      "解決する"
+    ],
+    "exampleEn": "I need to solve today.",
+    "exampleJa": "今日は解決する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "solve"
+    ]
+  },
+  {
+    "id": "v113",
+    "word": "manage",
+    "meanings": [
+      "何とかやり遂げる"
+    ],
+    "exampleEn": "I need to manage today.",
+    "exampleJa": "今日は何とかやり遂げる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "manage"
+    ]
+  },
+  {
+    "id": "v114",
+    "word": "miss",
+    "meanings": [
+      "逃す・恋しく思う"
+    ],
+    "exampleEn": "I need to miss today.",
+    "exampleJa": "今日は逃す・恋しく思う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "miss"
+    ]
+  },
+  {
+    "id": "v115",
+    "word": "join",
+    "meanings": [
+      "参加する"
+    ],
+    "exampleEn": "I need to join today.",
+    "exampleJa": "今日は参加する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "join"
+    ]
+  },
+  {
+    "id": "v116",
+    "word": "finish",
+    "meanings": [
+      "終える"
+    ],
+    "exampleEn": "I need to finish today.",
+    "exampleJa": "今日は終える必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "finish"
+    ]
+  },
+  {
+    "id": "v117",
+    "word": "plan",
+    "meanings": [
+      "計画する"
+    ],
+    "exampleEn": "I need to plan today.",
+    "exampleJa": "今日は計画する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "plan"
+    ]
+  },
+  {
+    "id": "v118",
+    "word": "prefer",
+    "meanings": [
+      "より好む"
+    ],
+    "exampleEn": "I need to prefer today.",
+    "exampleJa": "今日はより好む必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "prefer"
+    ]
+  },
+  {
+    "id": "v119",
+    "word": "mention",
+    "meanings": [
+      "言及する"
+    ],
+    "exampleEn": "I need to mention today.",
+    "exampleJa": "今日は言及する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "mention"
+    ]
+  },
+  {
+    "id": "v120",
+    "word": "notice",
+    "meanings": [
+      "気づく"
+    ],
+    "exampleEn": "I need to notice today.",
+    "exampleJa": "今日は気づく必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "notice"
+    ]
+  },
+  {
+    "id": "v121",
+    "word": "guess",
+    "meanings": [
+      "推測する"
+    ],
+    "exampleEn": "I need to guess today.",
+    "exampleJa": "今日は推測する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "guess"
+    ]
+  },
+  {
+    "id": "v122",
+    "word": "wish",
+    "meanings": [
+      "願う"
+    ],
+    "exampleEn": "I need to wish today.",
+    "exampleJa": "今日は願う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "wish"
+    ]
+  },
+  {
+    "id": "v123",
+    "word": "touch",
+    "meanings": [
+      "触れる"
+    ],
+    "exampleEn": "I need to touch today.",
+    "exampleJa": "今日は触れる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "touch"
+    ]
+  },
+  {
+    "id": "v124",
+    "word": "pick",
+    "meanings": [
+      "選ぶ・拾う"
+    ],
+    "exampleEn": "I need to pick today.",
+    "exampleJa": "今日は選ぶ・拾う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "pick"
+    ]
+  },
+  {
+    "id": "v125",
+    "word": "push",
+    "meanings": [
+      "押す"
+    ],
+    "exampleEn": "I need to push today.",
+    "exampleJa": "今日は押す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "push"
+    ]
+  },
+  {
+    "id": "v126",
+    "word": "throw",
+    "meanings": [
+      "投げる"
+    ],
+    "exampleEn": "I need to throw today.",
+    "exampleJa": "今日は投げる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "throw"
+    ]
+  },
+  {
+    "id": "v127",
+    "word": "catch",
+    "meanings": [
+      "捕まえる"
+    ],
+    "exampleEn": "I need to catch today.",
+    "exampleJa": "今日は捕まえる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "catch"
+    ]
+  },
+  {
+    "id": "v128",
+    "word": "figure out",
+    "meanings": [
+      "理解する・解決する"
+    ],
+    "exampleEn": "I need to figure out today.",
+    "exampleJa": "今日は理解する・解決する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "figure out"
+    ]
+  },
+  {
+    "id": "v129",
+    "word": "find out",
+    "meanings": [
+      "突き止める"
+    ],
+    "exampleEn": "I need to find out today.",
+    "exampleJa": "今日は突き止める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "find out"
+    ]
+  },
+  {
+    "id": "v130",
+    "word": "work out",
+    "meanings": [
+      "うまくいく・解決する"
+    ],
+    "exampleEn": "I need to work out today.",
+    "exampleJa": "今日はうまくいく・解決する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "work out"
+    ]
+  },
+  {
+    "id": "v131",
+    "word": "hang out",
+    "meanings": [
+      "一緒に過ごす"
+    ],
+    "exampleEn": "I need to hang out today.",
+    "exampleJa": "今日は一緒に過ごす必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "hang out"
+    ]
+  },
+  {
+    "id": "v132",
+    "word": "calm down",
+    "meanings": [
+      "落ち着く"
+    ],
+    "exampleEn": "I need to calm down today.",
+    "exampleJa": "今日は落ち着く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "calm down"
+    ]
+  },
+  {
+    "id": "v133",
+    "word": "show up",
+    "meanings": [
+      "現れる"
+    ],
+    "exampleEn": "I need to show up today.",
+    "exampleJa": "今日は現れる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "show up"
+    ]
+  },
+  {
+    "id": "v134",
+    "word": "give up",
+    "meanings": [
+      "諦める"
+    ],
+    "exampleEn": "I need to give up today.",
+    "exampleJa": "今日は諦める必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "give up"
+    ]
+  },
+  {
+    "id": "v135",
+    "word": "look for",
+    "meanings": [
+      "探す"
+    ],
+    "exampleEn": "I need to look for today.",
+    "exampleJa": "今日は探す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "look for"
+    ]
+  },
+  {
+    "id": "v136",
+    "word": "look after",
+    "meanings": [
+      "世話をする"
+    ],
+    "exampleEn": "I need to look after today.",
+    "exampleJa": "今日は世話をする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "look after"
+    ]
+  },
+  {
+    "id": "v137",
+    "word": "run into",
+    "meanings": [
+      "偶然出会う"
+    ],
+    "exampleEn": "I need to run into today.",
+    "exampleJa": "今日は偶然出会う必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "run into"
+    ]
+  },
+  {
+    "id": "v138",
+    "word": "deal with",
+    "meanings": [
+      "対処する"
+    ],
+    "exampleEn": "I need to deal with today.",
+    "exampleJa": "今日は対処する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "deal with"
+    ]
+  },
+  {
+    "id": "v139",
+    "word": "come across",
+    "meanings": [
+      "偶然見つける"
+    ],
+    "exampleEn": "I need to come across today.",
+    "exampleJa": "今日は偶然見つける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "come across"
+    ]
+  },
+  {
+    "id": "v140",
+    "word": "get along",
+    "meanings": [
+      "うまくやっていく"
+    ],
+    "exampleEn": "I need to get along today.",
+    "exampleJa": "今日はうまくやっていく必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "get along"
+    ]
+  },
+  {
+    "id": "v141",
+    "word": "put off",
+    "meanings": [
+      "延期する"
+    ],
+    "exampleEn": "I need to put off today.",
+    "exampleJa": "今日は延期する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "put off"
+    ]
+  },
+  {
+    "id": "v142",
+    "word": "carry on",
+    "meanings": [
+      "続ける"
+    ],
+    "exampleEn": "I need to carry on today.",
+    "exampleJa": "今日は続ける必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "carry on"
+    ]
+  },
+  {
+    "id": "v143",
+    "word": "point out",
+    "meanings": [
+      "指摘する"
+    ],
+    "exampleEn": "I need to point out today.",
+    "exampleJa": "今日は指摘する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "point out"
+    ]
+  },
+  {
+    "id": "v144",
+    "word": "bring up",
+    "meanings": [
+      "話題に出す"
+    ],
+    "exampleEn": "I need to bring up today.",
+    "exampleJa": "今日は話題に出す必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "bring up"
+    ]
+  },
+  {
+    "id": "v145",
+    "word": "make sure",
+    "meanings": [
+      "確かめる"
+    ],
+    "exampleEn": "I need to make sure today.",
+    "exampleJa": "今日は確かめる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "make sure"
+    ]
+  },
+  {
+    "id": "v146",
+    "word": "turn out",
+    "meanings": [
+      "〜だと分かる"
+    ],
+    "exampleEn": "I need to turn out today.",
+    "exampleJa": "今日は〜だと分かる必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "turn out"
+    ]
+  },
+  {
+    "id": "v147",
+    "word": "break down",
+    "meanings": [
+      "故障する"
+    ],
+    "exampleEn": "I need to break down today.",
+    "exampleJa": "今日は故障する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "break down"
+    ]
+  },
+  {
+    "id": "v148",
+    "word": "set up",
+    "meanings": [
+      "設定する・設立する"
+    ],
+    "exampleEn": "I need to set up today.",
+    "exampleJa": "今日は設定する・設立する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "set up"
+    ]
+  },
+  {
+    "id": "v149",
+    "word": "take over",
+    "meanings": [
+      "引き継ぐ"
+    ],
+    "exampleEn": "I need to take over today.",
+    "exampleJa": "今日は引き継ぐ必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "take over"
+    ]
+  },
+  {
+    "id": "v150",
+    "word": "look forward to",
+    "meanings": [
+      "楽しみにする"
+    ],
+    "exampleEn": "I need to look forward to today.",
+    "exampleJa": "今日は楽しみにする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "look forward to"
+    ]
+  },
+  {
+    "id": "v151",
+    "word": "get rid of",
+    "meanings": [
+      "取り除く"
+    ],
+    "exampleEn": "I need to get rid of today.",
+    "exampleJa": "今日は取り除く必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "get rid of"
+    ]
+  },
+  {
+    "id": "v152",
+    "word": "come up with",
+    "meanings": [
+      "思いつく"
+    ],
+    "exampleEn": "I need to come up with today.",
+    "exampleJa": "今日は思いつく必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "come up with"
+    ]
+  },
+  {
+    "id": "v153",
+    "word": "keep up",
+    "meanings": [
+      "ついていく"
+    ],
+    "exampleEn": "I need to keep up today.",
+    "exampleJa": "今日はついていく必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "keep up"
+    ]
+  },
+  {
+    "id": "v154",
+    "word": "back up",
+    "meanings": [
+      "バックアップする"
+    ],
+    "exampleEn": "I need to back up today.",
+    "exampleJa": "今日はバックアップする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "back up"
+    ]
+  },
+  {
+    "id": "v155",
+    "word": "log in",
+    "meanings": [
+      "ログインする"
+    ],
+    "exampleEn": "I need to log in today.",
+    "exampleJa": "今日はログインする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "log in"
+    ]
+  },
+  {
+    "id": "v156",
+    "word": "sign up",
+    "meanings": [
+      "登録する"
+    ],
+    "exampleEn": "I need to sign up today.",
+    "exampleJa": "今日は登録する必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "sign up"
+    ]
+  },
+  {
+    "id": "v157",
+    "word": "scroll down",
+    "meanings": [
+      "下にスクロールする"
+    ],
+    "exampleEn": "I need to scroll down today.",
+    "exampleJa": "今日は下にスクロールする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "scroll down"
+    ]
+  },
+  {
+    "id": "v158",
+    "word": "click on",
+    "meanings": [
+      "クリックする"
+    ],
+    "exampleEn": "I need to click on today.",
+    "exampleJa": "今日はクリックする必要がある。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "verb"
+    ],
+    "acceptedAnswers": [
+      "click on"
+    ]
+  },
+  {
+    "id": "v159",
+    "word": "time",
+    "meanings": [
+      "時間"
+    ],
+    "exampleEn": "The time is important.",
+    "exampleJa": "その時間は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "time"
+    ]
+  },
+  {
+    "id": "v160",
+    "word": "person",
+    "meanings": [
+      "人"
+    ],
+    "exampleEn": "The person is important.",
+    "exampleJa": "その人は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "person"
+    ]
+  },
+  {
+    "id": "v161",
+    "word": "year",
+    "meanings": [
+      "年"
+    ],
+    "exampleEn": "The year is important.",
+    "exampleJa": "その年は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "year"
+    ]
+  },
+  {
+    "id": "v162",
+    "word": "way",
+    "meanings": [
+      "方法"
+    ],
+    "exampleEn": "The way is important.",
+    "exampleJa": "その方法は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "way"
+    ]
+  },
+  {
+    "id": "v163",
+    "word": "day",
+    "meanings": [
+      "日"
+    ],
+    "exampleEn": "The day is important.",
+    "exampleJa": "その日は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "day"
+    ]
+  },
+  {
+    "id": "v164",
+    "word": "thing",
+    "meanings": [
+      "もの・こと"
+    ],
+    "exampleEn": "The thing is important.",
+    "exampleJa": "そのもの・ことは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "thing"
+    ]
+  },
+  {
+    "id": "v165",
+    "word": "world",
+    "meanings": [
+      "世界"
+    ],
+    "exampleEn": "The world is important.",
+    "exampleJa": "その世界は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "world"
+    ]
+  },
+  {
+    "id": "v166",
+    "word": "life",
+    "meanings": [
+      "人生・生活"
+    ],
+    "exampleEn": "The life is important.",
+    "exampleJa": "その人生・生活は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "life"
+    ]
+  },
+  {
+    "id": "v167",
+    "word": "hand",
+    "meanings": [
+      "手"
+    ],
+    "exampleEn": "The hand is important.",
+    "exampleJa": "その手は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "hand"
+    ]
+  },
+  {
+    "id": "v168",
+    "word": "part",
+    "meanings": [
+      "部分"
+    ],
+    "exampleEn": "The part is important.",
+    "exampleJa": "その部分は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "part"
+    ]
+  },
+  {
+    "id": "v169",
+    "word": "eye",
+    "meanings": [
+      "目"
+    ],
+    "exampleEn": "The eye is important.",
+    "exampleJa": "その目は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "eye"
+    ]
+  },
+  {
+    "id": "v170",
+    "word": "place",
+    "meanings": [
+      "場所"
+    ],
+    "exampleEn": "The place is important.",
+    "exampleJa": "その場所は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "place"
+    ]
+  },
+  {
+    "id": "v171",
+    "word": "week",
+    "meanings": [
+      "週"
+    ],
+    "exampleEn": "The week is important.",
+    "exampleJa": "その週は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "week"
+    ]
+  },
+  {
+    "id": "v172",
+    "word": "point",
+    "meanings": [
+      "要点"
+    ],
+    "exampleEn": "The point is important.",
+    "exampleJa": "その要点は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "point"
+    ]
+  },
+  {
+    "id": "v173",
+    "word": "company",
+    "meanings": [
+      "会社"
+    ],
+    "exampleEn": "The company is important.",
+    "exampleJa": "その会社は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "company"
+    ]
+  },
+  {
+    "id": "v174",
+    "word": "number",
+    "meanings": [
+      "数"
+    ],
+    "exampleEn": "The number is important.",
+    "exampleJa": "その数は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "number"
+    ]
+  },
+  {
+    "id": "v175",
+    "word": "group",
+    "meanings": [
+      "グループ"
+    ],
+    "exampleEn": "The group is important.",
+    "exampleJa": "そのグループは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "group"
+    ]
+  },
+  {
+    "id": "v176",
+    "word": "problem",
+    "meanings": [
+      "問題"
+    ],
+    "exampleEn": "The problem is important.",
+    "exampleJa": "その問題は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "problem"
+    ]
+  },
+  {
+    "id": "v177",
+    "word": "fact",
+    "meanings": [
+      "事実"
+    ],
+    "exampleEn": "The fact is important.",
+    "exampleJa": "その事実は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "fact"
+    ]
+  },
+  {
+    "id": "v178",
+    "word": "home",
+    "meanings": [
+      "家"
+    ],
+    "exampleEn": "The home is important.",
+    "exampleJa": "その家は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "home"
+    ]
+  },
+  {
+    "id": "v179",
+    "word": "water",
+    "meanings": [
+      "水"
+    ],
+    "exampleEn": "The water is important.",
+    "exampleJa": "その水は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "water"
+    ]
+  },
+  {
+    "id": "v180",
+    "word": "room",
+    "meanings": [
+      "部屋"
+    ],
+    "exampleEn": "The room is important.",
+    "exampleJa": "その部屋は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "room"
+    ]
+  },
+  {
+    "id": "v181",
+    "word": "mother",
+    "meanings": [
+      "母"
+    ],
+    "exampleEn": "The mother is important.",
+    "exampleJa": "その母は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "mother"
+    ]
+  },
+  {
+    "id": "v182",
+    "word": "father",
+    "meanings": [
+      "父"
+    ],
+    "exampleEn": "The father is important.",
+    "exampleJa": "その父は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "father"
+    ]
+  },
+  {
+    "id": "v183",
+    "word": "friend",
+    "meanings": [
+      "友達"
+    ],
+    "exampleEn": "The friend is important.",
+    "exampleJa": "その友達は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "friend"
+    ]
+  },
+  {
+    "id": "v184",
+    "word": "family",
+    "meanings": [
+      "家族"
+    ],
+    "exampleEn": "The family is important.",
+    "exampleJa": "その家族は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "family"
+    ]
+  },
+  {
+    "id": "v185",
+    "word": "story",
+    "meanings": [
+      "話・物語"
+    ],
+    "exampleEn": "The story is important.",
+    "exampleJa": "その話・物語は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "story"
+    ]
+  },
+  {
+    "id": "v186",
+    "word": "money",
+    "meanings": [
+      "お金"
+    ],
+    "exampleEn": "The money is important.",
+    "exampleJa": "そのお金は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "money"
+    ]
+  },
+  {
+    "id": "v187",
+    "word": "month",
+    "meanings": [
+      "月"
+    ],
+    "exampleEn": "The month is important.",
+    "exampleJa": "その月は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "month"
+    ]
+  },
+  {
+    "id": "v188",
+    "word": "night",
+    "meanings": [
+      "夜"
+    ],
+    "exampleEn": "The night is important.",
+    "exampleJa": "その夜は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "night"
+    ]
+  },
+  {
+    "id": "v189",
+    "word": "book",
+    "meanings": [
+      "本"
+    ],
+    "exampleEn": "The book is important.",
+    "exampleJa": "その本は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "book"
+    ]
+  },
+  {
+    "id": "v190",
+    "word": "school",
+    "meanings": [
+      "学校"
+    ],
+    "exampleEn": "The school is important.",
+    "exampleJa": "その学校は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "school"
+    ]
+  },
+  {
+    "id": "v191",
+    "word": "business",
+    "meanings": [
+      "仕事・事業"
+    ],
+    "exampleEn": "The business is important.",
+    "exampleJa": "その仕事・事業は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "business"
+    ]
+  },
+  {
+    "id": "v192",
+    "word": "job",
+    "meanings": [
+      "仕事"
+    ],
+    "exampleEn": "The job is important.",
+    "exampleJa": "その仕事は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "job"
+    ]
+  },
+  {
+    "id": "v193",
+    "word": "word",
+    "meanings": [
+      "単語"
+    ],
+    "exampleEn": "The word is important.",
+    "exampleJa": "その単語は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "word"
+    ]
+  },
+  {
+    "id": "v194",
+    "word": "question",
+    "meanings": [
+      "質問"
+    ],
+    "exampleEn": "The question is important.",
+    "exampleJa": "その質問は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "question"
+    ]
+  },
+  {
+    "id": "v195",
+    "word": "answer",
+    "meanings": [
+      "答え"
+    ],
+    "exampleEn": "The answer is important.",
+    "exampleJa": "その答えは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "answer"
+    ]
+  },
+  {
+    "id": "v196",
+    "word": "idea",
+    "meanings": [
+      "考え"
+    ],
+    "exampleEn": "The idea is important.",
+    "exampleJa": "その考えは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "idea"
+    ]
+  },
+  {
+    "id": "v197",
+    "word": "name",
+    "meanings": [
+      "名前"
+    ],
+    "exampleEn": "The name is important.",
+    "exampleJa": "その名前は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "name"
+    ]
+  },
+  {
+    "id": "v198",
+    "word": "phone",
+    "meanings": [
+      "電話"
+    ],
+    "exampleEn": "The phone is important.",
+    "exampleJa": "その電話は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "phone"
+    ]
+  },
+  {
+    "id": "v199",
+    "word": "computer",
+    "meanings": [
+      "コンピューター"
+    ],
+    "exampleEn": "The computer is important.",
+    "exampleJa": "そのコンピューターは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "computer"
+    ]
+  },
+  {
+    "id": "v200",
+    "word": "game",
+    "meanings": [
+      "ゲーム"
+    ],
+    "exampleEn": "The game is important.",
+    "exampleJa": "そのゲームは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "game"
+    ]
+  },
+  {
+    "id": "v201",
+    "word": "movie",
+    "meanings": [
+      "映画"
+    ],
+    "exampleEn": "The movie is important.",
+    "exampleJa": "その映画は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "movie"
+    ]
+  },
+  {
+    "id": "v202",
+    "word": "music",
+    "meanings": [
+      "音楽"
+    ],
+    "exampleEn": "The music is important.",
+    "exampleJa": "その音楽は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "music"
+    ]
+  },
+  {
+    "id": "v203",
+    "word": "video",
+    "meanings": [
+      "動画"
+    ],
+    "exampleEn": "The video is important.",
+    "exampleJa": "その動画は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "video"
+    ]
+  },
+  {
+    "id": "v204",
+    "word": "channel",
+    "meanings": [
+      "チャンネル"
+    ],
+    "exampleEn": "The channel is important.",
+    "exampleJa": "そのチャンネルは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "channel"
+    ]
+  },
+  {
+    "id": "v205",
+    "word": "message",
+    "meanings": [
+      "メッセージ"
+    ],
+    "exampleEn": "The message is important.",
+    "exampleJa": "そのメッセージは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "message"
+    ]
+  },
+  {
+    "id": "v206",
+    "word": "comment",
+    "meanings": [
+      "コメント"
+    ],
+    "exampleEn": "The comment is important.",
+    "exampleJa": "そのコメントは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "comment"
+    ]
+  },
+  {
+    "id": "v207",
+    "word": "content",
+    "meanings": [
+      "コンテンツ"
+    ],
+    "exampleEn": "The content is important.",
+    "exampleJa": "そのコンテンツは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "content"
+    ]
+  },
+  {
+    "id": "v208",
+    "word": "episode",
+    "meanings": [
+      "エピソード"
+    ],
+    "exampleEn": "The episode is important.",
+    "exampleJa": "そのエピソードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "episode"
+    ]
+  },
+  {
+    "id": "v209",
+    "word": "character",
+    "meanings": [
+      "登場人物"
+    ],
+    "exampleEn": "The character is important.",
+    "exampleJa": "その登場人物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "character"
+    ]
+  },
+  {
+    "id": "v210",
+    "word": "scene",
+    "meanings": [
+      "場面"
+    ],
+    "exampleEn": "The scene is important.",
+    "exampleJa": "その場面は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "scene"
+    ]
+  },
+  {
+    "id": "v211",
+    "word": "fan",
+    "meanings": [
+      "ファン"
+    ],
+    "exampleEn": "The fan is important.",
+    "exampleJa": "そのファンは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "fan"
+    ]
+  },
+  {
+    "id": "v212",
+    "word": "stream",
+    "meanings": [
+      "配信"
+    ],
+    "exampleEn": "The stream is important.",
+    "exampleJa": "その配信は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "stream"
+    ]
+  },
+  {
+    "id": "v213",
+    "word": "audience",
+    "meanings": [
+      "視聴者・観客"
+    ],
+    "exampleEn": "The audience is important.",
+    "exampleJa": "その視聴者・観客は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "audience"
+    ]
+  },
+  {
+    "id": "v214",
+    "word": "team",
+    "meanings": [
+      "チーム"
+    ],
+    "exampleEn": "The team is important.",
+    "exampleJa": "そのチームは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "team"
+    ]
+  },
+  {
+    "id": "v215",
+    "word": "player",
+    "meanings": [
+      "プレイヤー"
+    ],
+    "exampleEn": "The player is important.",
+    "exampleJa": "そのプレイヤーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "player"
+    ]
+  },
+  {
+    "id": "v216",
+    "word": "match",
+    "meanings": [
+      "試合"
+    ],
+    "exampleEn": "The match is important.",
+    "exampleJa": "その試合は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "match"
+    ]
+  },
+  {
+    "id": "v217",
+    "word": "event",
+    "meanings": [
+      "イベント"
+    ],
+    "exampleEn": "The event is important.",
+    "exampleJa": "そのイベントは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "event"
+    ]
+  },
+  {
+    "id": "v218",
+    "word": "skill",
+    "meanings": [
+      "技能"
+    ],
+    "exampleEn": "The skill is important.",
+    "exampleJa": "その技能は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "skill"
+    ]
+  },
+  {
+    "id": "v219",
+    "word": "level",
+    "meanings": [
+      "レベル"
+    ],
+    "exampleEn": "The level is important.",
+    "exampleJa": "そのレベルは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "level"
+    ]
+  },
+  {
+    "id": "v220",
+    "word": "challenge",
+    "meanings": [
+      "挑戦"
+    ],
+    "exampleEn": "The challenge is important.",
+    "exampleJa": "その挑戦は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "challenge"
+    ]
+  },
+  {
+    "id": "v221",
+    "word": "chance",
+    "meanings": [
+      "機会"
+    ],
+    "exampleEn": "The chance is important.",
+    "exampleJa": "その機会は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "chance"
+    ]
+  },
+  {
+    "id": "v222",
+    "word": "choice",
+    "meanings": [
+      "選択"
+    ],
+    "exampleEn": "The choice is important.",
+    "exampleJa": "その選択は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "choice"
+    ]
+  },
+  {
+    "id": "v223",
+    "word": "reason",
+    "meanings": [
+      "理由"
+    ],
+    "exampleEn": "The reason is important.",
+    "exampleJa": "その理由は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "reason"
+    ]
+  },
+  {
+    "id": "v224",
+    "word": "result",
+    "meanings": [
+      "結果"
+    ],
+    "exampleEn": "The result is important.",
+    "exampleJa": "その結果は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "result"
+    ]
+  },
+  {
+    "id": "v225",
+    "word": "goal",
+    "meanings": [
+      "目標"
+    ],
+    "exampleEn": "The goal is important.",
+    "exampleJa": "その目標は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "goal"
+    ]
+  },
+  {
+    "id": "v226",
+    "word": "decision",
+    "meanings": [
+      "決定"
+    ],
+    "exampleEn": "The decision is important.",
+    "exampleJa": "その決定は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "decision"
+    ]
+  },
+  {
+    "id": "v227",
+    "word": "experience",
+    "meanings": [
+      "経験"
+    ],
+    "exampleEn": "The experience is important.",
+    "exampleJa": "その経験は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "experience"
+    ]
+  },
+  {
+    "id": "v228",
+    "word": "feeling",
+    "meanings": [
+      "感情"
+    ],
+    "exampleEn": "The feeling is important.",
+    "exampleJa": "その感情は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "feeling"
+    ]
+  },
+  {
+    "id": "v229",
+    "word": "relationship",
+    "meanings": [
+      "関係"
+    ],
+    "exampleEn": "The relationship is important.",
+    "exampleJa": "その関係は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "relationship"
+    ]
+  },
+  {
+    "id": "v230",
+    "word": "conversation",
+    "meanings": [
+      "会話"
+    ],
+    "exampleEn": "The conversation is important.",
+    "exampleJa": "その会話は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "conversation"
+    ]
+  },
+  {
+    "id": "v231",
+    "word": "language",
+    "meanings": [
+      "言語"
+    ],
+    "exampleEn": "The language is important.",
+    "exampleJa": "その言語は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "language"
+    ]
+  },
+  {
+    "id": "v232",
+    "word": "meaning",
+    "meanings": [
+      "意味"
+    ],
+    "exampleEn": "The meaning is important.",
+    "exampleJa": "その意味は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "meaning"
+    ]
+  },
+  {
+    "id": "v233",
+    "word": "example",
+    "meanings": [
+      "例"
+    ],
+    "exampleEn": "The example is important.",
+    "exampleJa": "その例は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "example"
+    ]
+  },
+  {
+    "id": "v234",
+    "word": "sentence",
+    "meanings": [
+      "文"
+    ],
+    "exampleEn": "The sentence is important.",
+    "exampleJa": "その文は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "sentence"
+    ]
+  },
+  {
+    "id": "v235",
+    "word": "expression",
+    "meanings": [
+      "表現"
+    ],
+    "exampleEn": "The expression is important.",
+    "exampleJa": "その表現は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "expression"
+    ]
+  },
+  {
+    "id": "v236",
+    "word": "accent",
+    "meanings": [
+      "アクセント"
+    ],
+    "exampleEn": "The accent is important.",
+    "exampleJa": "そのアクセントは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "accent"
+    ]
+  },
+  {
+    "id": "v237",
+    "word": "voice",
+    "meanings": [
+      "声"
+    ],
+    "exampleEn": "The voice is important.",
+    "exampleJa": "その声は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "voice"
+    ]
+  },
+  {
+    "id": "v238",
+    "word": "sound",
+    "meanings": [
+      "音"
+    ],
+    "exampleEn": "The sound is important.",
+    "exampleJa": "その音は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "sound"
+    ]
+  },
+  {
+    "id": "v239",
+    "word": "picture",
+    "meanings": [
+      "写真・絵"
+    ],
+    "exampleEn": "The picture is important.",
+    "exampleJa": "その写真・絵は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "picture"
+    ]
+  },
+  {
+    "id": "v240",
+    "word": "image",
+    "meanings": [
+      "画像"
+    ],
+    "exampleEn": "The image is important.",
+    "exampleJa": "その画像は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "image"
+    ]
+  },
+  {
+    "id": "v241",
+    "word": "screen",
+    "meanings": [
+      "画面"
+    ],
+    "exampleEn": "The screen is important.",
+    "exampleJa": "その画面は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "screen"
+    ]
+  },
+  {
+    "id": "v242",
+    "word": "button",
+    "meanings": [
+      "ボタン"
+    ],
+    "exampleEn": "The button is important.",
+    "exampleJa": "そのボタンは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "button"
+    ]
+  },
+  {
+    "id": "v243",
+    "word": "website",
+    "meanings": [
+      "ウェブサイト"
+    ],
+    "exampleEn": "The website is important.",
+    "exampleJa": "そのウェブサイトは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "website"
+    ]
+  },
+  {
+    "id": "v244",
+    "word": "app",
+    "meanings": [
+      "アプリ"
+    ],
+    "exampleEn": "The app is important.",
+    "exampleJa": "そのアプリは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "app"
+    ]
+  },
+  {
+    "id": "v245",
+    "word": "file",
+    "meanings": [
+      "ファイル"
+    ],
+    "exampleEn": "The file is important.",
+    "exampleJa": "そのファイルは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "file"
+    ]
+  },
+  {
+    "id": "v246",
+    "word": "data",
+    "meanings": [
+      "データ"
+    ],
+    "exampleEn": "The data is important.",
+    "exampleJa": "そのデータは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "data"
+    ]
+  },
+  {
+    "id": "v247",
+    "word": "password",
+    "meanings": [
+      "パスワード"
+    ],
+    "exampleEn": "The password is important.",
+    "exampleJa": "そのパスワードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "password"
+    ]
+  },
+  {
+    "id": "v248",
+    "word": "account",
+    "meanings": [
+      "アカウント"
+    ],
+    "exampleEn": "The account is important.",
+    "exampleJa": "そのアカウントは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "account"
+    ]
+  },
+  {
+    "id": "v249",
+    "word": "internet",
+    "meanings": [
+      "インターネット"
+    ],
+    "exampleEn": "The internet is important.",
+    "exampleJa": "そのインターネットは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "internet"
+    ]
+  },
+  {
+    "id": "v250",
+    "word": "network",
+    "meanings": [
+      "ネットワーク"
+    ],
+    "exampleEn": "The network is important.",
+    "exampleJa": "そのネットワークは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "network"
+    ]
+  },
+  {
+    "id": "v251",
+    "word": "update",
+    "meanings": [
+      "更新"
+    ],
+    "exampleEn": "The update is important.",
+    "exampleJa": "その更新は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "update"
+    ]
+  },
+  {
+    "id": "v252",
+    "word": "feature",
+    "meanings": [
+      "機能"
+    ],
+    "exampleEn": "The feature is important.",
+    "exampleJa": "その機能は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "feature"
+    ]
+  },
+  {
+    "id": "v253",
+    "word": "setting",
+    "meanings": [
+      "設定"
+    ],
+    "exampleEn": "The setting is important.",
+    "exampleJa": "その設定は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "setting"
+    ]
+  },
+  {
+    "id": "v254",
+    "word": "option",
+    "meanings": [
+      "選択肢"
+    ],
+    "exampleEn": "The option is important.",
+    "exampleJa": "その選択肢は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "option"
+    ]
+  },
+  {
+    "id": "v255",
+    "word": "detail",
+    "meanings": [
+      "詳細"
+    ],
+    "exampleEn": "The detail is important.",
+    "exampleJa": "その詳細は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "detail"
+    ]
+  },
+  {
+    "id": "v256",
+    "word": "information",
+    "meanings": [
+      "情報"
+    ],
+    "exampleEn": "The information is important.",
+    "exampleJa": "その情報は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "v257",
+    "word": "news",
+    "meanings": [
+      "ニュース"
+    ],
+    "exampleEn": "The news is important.",
+    "exampleJa": "そのニュースは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "news"
+    ]
+  },
+  {
+    "id": "v258",
+    "word": "topic",
+    "meanings": [
+      "話題"
+    ],
+    "exampleEn": "The topic is important.",
+    "exampleJa": "その話題は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "topic"
+    ]
+  },
+  {
+    "id": "v259",
+    "word": "opinion",
+    "meanings": [
+      "意見"
+    ],
+    "exampleEn": "The opinion is important.",
+    "exampleJa": "その意見は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "opinion"
+    ]
+  },
+  {
+    "id": "v260",
+    "word": "advice",
+    "meanings": [
+      "助言"
+    ],
+    "exampleEn": "The advice is important.",
+    "exampleJa": "その助言は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "advice"
+    ]
+  },
+  {
+    "id": "v261",
+    "word": "service",
+    "meanings": [
+      "サービス"
+    ],
+    "exampleEn": "The service is important.",
+    "exampleJa": "そのサービスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "service"
+    ]
+  },
+  {
+    "id": "v262",
+    "word": "price",
+    "meanings": [
+      "価格"
+    ],
+    "exampleEn": "The price is important.",
+    "exampleJa": "その価格は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "price"
+    ]
+  },
+  {
+    "id": "v263",
+    "word": "cost",
+    "meanings": [
+      "費用"
+    ],
+    "exampleEn": "The cost is important.",
+    "exampleJa": "その費用は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "cost"
+    ]
+  },
+  {
+    "id": "v264",
+    "word": "order",
+    "meanings": [
+      "注文"
+    ],
+    "exampleEn": "The order is important.",
+    "exampleJa": "その注文は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "order"
+    ]
+  },
+  {
+    "id": "v265",
+    "word": "ticket",
+    "meanings": [
+      "チケット"
+    ],
+    "exampleEn": "The ticket is important.",
+    "exampleJa": "そのチケットは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "ticket"
+    ]
+  },
+  {
+    "id": "v266",
+    "word": "trip",
+    "meanings": [
+      "旅行"
+    ],
+    "exampleEn": "The trip is important.",
+    "exampleJa": "その旅行は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "trip"
+    ]
+  },
+  {
+    "id": "v267",
+    "word": "train",
+    "meanings": [
+      "電車"
+    ],
+    "exampleEn": "The train is important.",
+    "exampleJa": "その電車は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "train"
+    ]
+  },
+  {
+    "id": "v268",
+    "word": "station",
+    "meanings": [
+      "駅"
+    ],
+    "exampleEn": "The station is important.",
+    "exampleJa": "その駅は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "station"
+    ]
+  },
+  {
+    "id": "v269",
+    "word": "bus",
+    "meanings": [
+      "バス"
+    ],
+    "exampleEn": "The bus is important.",
+    "exampleJa": "そのバスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bus"
+    ]
+  },
+  {
+    "id": "v270",
+    "word": "car",
+    "meanings": [
+      "車"
+    ],
+    "exampleEn": "The car is important.",
+    "exampleJa": "その車は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "car"
+    ]
+  },
+  {
+    "id": "v271",
+    "word": "street",
+    "meanings": [
+      "通り"
+    ],
+    "exampleEn": "The street is important.",
+    "exampleJa": "その通りは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "street"
+    ]
+  },
+  {
+    "id": "v272",
+    "word": "city",
+    "meanings": [
+      "都市"
+    ],
+    "exampleEn": "The city is important.",
+    "exampleJa": "その都市は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "city"
+    ]
+  },
+  {
+    "id": "v273",
+    "word": "country",
+    "meanings": [
+      "国"
+    ],
+    "exampleEn": "The country is important.",
+    "exampleJa": "その国は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "country"
+    ]
+  },
+  {
+    "id": "v274",
+    "word": "area",
+    "meanings": [
+      "地域"
+    ],
+    "exampleEn": "The area is important.",
+    "exampleJa": "その地域は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "area"
+    ]
+  },
+  {
+    "id": "v275",
+    "word": "building",
+    "meanings": [
+      "建物"
+    ],
+    "exampleEn": "The building is important.",
+    "exampleJa": "その建物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "building"
+    ]
+  },
+  {
+    "id": "v276",
+    "word": "shop",
+    "meanings": [
+      "店"
+    ],
+    "exampleEn": "The shop is important.",
+    "exampleJa": "その店は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "shop"
+    ]
+  },
+  {
+    "id": "v277",
+    "word": "restaurant",
+    "meanings": [
+      "レストラン"
+    ],
+    "exampleEn": "The restaurant is important.",
+    "exampleJa": "そのレストランは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "restaurant"
+    ]
+  },
+  {
+    "id": "v278",
+    "word": "food",
+    "meanings": [
+      "食べ物"
+    ],
+    "exampleEn": "The food is important.",
+    "exampleJa": "その食べ物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "food"
+    ]
+  },
+  {
+    "id": "v279",
+    "word": "meal",
+    "meanings": [
+      "食事"
+    ],
+    "exampleEn": "The meal is important.",
+    "exampleJa": "その食事は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "meal"
+    ]
+  },
+  {
+    "id": "v280",
+    "word": "coffee",
+    "meanings": [
+      "コーヒー"
+    ],
+    "exampleEn": "The coffee is important.",
+    "exampleJa": "そのコーヒーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "coffee"
+    ]
+  },
+  {
+    "id": "v281",
+    "word": "breakfast",
+    "meanings": [
+      "朝食"
+    ],
+    "exampleEn": "The breakfast is important.",
+    "exampleJa": "その朝食は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "breakfast"
+    ]
+  },
+  {
+    "id": "v282",
+    "word": "lunch",
+    "meanings": [
+      "昼食"
+    ],
+    "exampleEn": "The lunch is important.",
+    "exampleJa": "その昼食は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "lunch"
+    ]
+  },
+  {
+    "id": "v283",
+    "word": "dinner",
+    "meanings": [
+      "夕食"
+    ],
+    "exampleEn": "The dinner is important.",
+    "exampleJa": "その夕食は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "dinner"
+    ]
+  },
+  {
+    "id": "v284",
+    "word": "health",
+    "meanings": [
+      "健康"
+    ],
+    "exampleEn": "The health is important.",
+    "exampleJa": "その健康は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "health"
+    ]
+  },
+  {
+    "id": "v285",
+    "word": "body",
+    "meanings": [
+      "体"
+    ],
+    "exampleEn": "The body is important.",
+    "exampleJa": "その体は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "body"
+    ]
+  },
+  {
+    "id": "v286",
+    "word": "head",
+    "meanings": [
+      "頭"
+    ],
+    "exampleEn": "The head is important.",
+    "exampleJa": "その頭は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "head"
+    ]
+  },
+  {
+    "id": "v287",
+    "word": "face",
+    "meanings": [
+      "顔"
+    ],
+    "exampleEn": "The face is important.",
+    "exampleJa": "その顔は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "face"
+    ]
+  },
+  {
+    "id": "v288",
+    "word": "hair",
+    "meanings": [
+      "髪"
+    ],
+    "exampleEn": "The hair is important.",
+    "exampleJa": "その髪は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "hair"
+    ]
+  },
+  {
+    "id": "v289",
+    "word": "heart",
+    "meanings": [
+      "心・心臓"
+    ],
+    "exampleEn": "The heart is important.",
+    "exampleJa": "その心・心臓は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "heart"
+    ]
+  },
+  {
+    "id": "v290",
+    "word": "mind",
+    "meanings": [
+      "心・考え"
+    ],
+    "exampleEn": "The mind is important.",
+    "exampleJa": "その心・考えは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "mind"
+    ]
+  },
+  {
+    "id": "v291",
+    "word": "weather",
+    "meanings": [
+      "天気"
+    ],
+    "exampleEn": "The weather is important.",
+    "exampleJa": "その天気は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "weather"
+    ]
+  },
+  {
+    "id": "v292",
+    "word": "rain",
+    "meanings": [
+      "雨"
+    ],
+    "exampleEn": "The rain is important.",
+    "exampleJa": "その雨は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rain"
+    ]
+  },
+  {
+    "id": "v293",
+    "word": "sun",
+    "meanings": [
+      "太陽"
+    ],
+    "exampleEn": "The sun is important.",
+    "exampleJa": "その太陽は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "sun"
+    ]
+  },
+  {
+    "id": "v294",
+    "word": "air",
+    "meanings": [
+      "空気"
+    ],
+    "exampleEn": "The air is important.",
+    "exampleJa": "その空気は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "air"
+    ]
+  },
+  {
+    "id": "v295",
+    "word": "animal",
+    "meanings": [
+      "動物"
+    ],
+    "exampleEn": "The animal is important.",
+    "exampleJa": "その動物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "animal"
+    ]
+  },
+  {
+    "id": "v296",
+    "word": "dog",
+    "meanings": [
+      "犬"
+    ],
+    "exampleEn": "The dog is important.",
+    "exampleJa": "その犬は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "dog"
+    ]
+  },
+  {
+    "id": "v297",
+    "word": "cat",
+    "meanings": [
+      "猫"
+    ],
+    "exampleEn": "The cat is important.",
+    "exampleJa": "その猫は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "cat"
+    ]
+  },
+  {
+    "id": "v298",
+    "word": "bird",
+    "meanings": [
+      "鳥"
+    ],
+    "exampleEn": "The bird is important.",
+    "exampleJa": "その鳥は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bird"
+    ]
+  },
+  {
+    "id": "v299",
+    "word": "tree",
+    "meanings": [
+      "木"
+    ],
+    "exampleEn": "The tree is important.",
+    "exampleJa": "その木は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "tree"
+    ]
+  },
+  {
+    "id": "v300",
+    "word": "flower",
+    "meanings": [
+      "花"
+    ],
+    "exampleEn": "The flower is important.",
+    "exampleJa": "その花は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "flower"
+    ]
+  },
+  {
+    "id": "v301",
+    "word": "rank",
+    "meanings": [
+      "ランク"
+    ],
+    "exampleEn": "The rank is important.",
+    "exampleJa": "そのランクは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rank"
+    ]
+  },
+  {
+    "id": "v302",
+    "word": "score",
+    "meanings": [
+      "得点"
+    ],
+    "exampleEn": "The score is important.",
+    "exampleJa": "その得点は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "score"
+    ]
+  },
+  {
+    "id": "v303",
+    "word": "victory",
+    "meanings": [
+      "勝利"
+    ],
+    "exampleEn": "The victory is important.",
+    "exampleJa": "その勝利は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "victory"
+    ]
+  },
+  {
+    "id": "v304",
+    "word": "loss",
+    "meanings": [
+      "敗北"
+    ],
+    "exampleEn": "The loss is important.",
+    "exampleJa": "その敗北は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "loss"
+    ]
+  },
+  {
+    "id": "v305",
+    "word": "mistake",
+    "meanings": [
+      "間違い"
+    ],
+    "exampleEn": "The mistake is important.",
+    "exampleJa": "その間違いは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "mistake"
+    ]
+  },
+  {
+    "id": "v306",
+    "word": "success",
+    "meanings": [
+      "成功"
+    ],
+    "exampleEn": "The success is important.",
+    "exampleJa": "その成功は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "success"
+    ]
+  },
+  {
+    "id": "v307",
+    "word": "failure",
+    "meanings": [
+      "失敗"
+    ],
+    "exampleEn": "The failure is important.",
+    "exampleJa": "その失敗は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "failure"
+    ]
+  },
+  {
+    "id": "v308",
+    "word": "effort",
+    "meanings": [
+      "努力"
+    ],
+    "exampleEn": "The effort is important.",
+    "exampleJa": "その努力は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "effort"
+    ]
+  },
+  {
+    "id": "v309",
+    "word": "practice",
+    "meanings": [
+      "練習"
+    ],
+    "exampleEn": "The practice is important.",
+    "exampleJa": "その練習は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "practice"
+    ]
+  },
+  {
+    "id": "v310",
+    "word": "rule",
+    "meanings": [
+      "規則"
+    ],
+    "exampleEn": "The rule is important.",
+    "exampleJa": "その規則は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rule"
+    ]
+  },
+  {
+    "id": "v311",
+    "word": "system",
+    "meanings": [
+      "システム"
+    ],
+    "exampleEn": "The system is important.",
+    "exampleJa": "そのシステムは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "system"
+    ]
+  },
+  {
+    "id": "v312",
+    "word": "process",
+    "meanings": [
+      "過程"
+    ],
+    "exampleEn": "The process is important.",
+    "exampleJa": "その過程は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "process"
+    ]
+  },
+  {
+    "id": "v313",
+    "word": "method",
+    "meanings": [
+      "方法"
+    ],
+    "exampleEn": "The method is important.",
+    "exampleJa": "その方法は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "method"
+    ]
+  },
+  {
+    "id": "v314",
+    "word": "tool",
+    "meanings": [
+      "道具"
+    ],
+    "exampleEn": "The tool is important.",
+    "exampleJa": "その道具は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "tool"
+    ]
+  },
+  {
+    "id": "v315",
+    "word": "device",
+    "meanings": [
+      "端末"
+    ],
+    "exampleEn": "The device is important.",
+    "exampleJa": "その端末は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "device"
+    ]
+  },
+  {
+    "id": "v316",
+    "word": "battery",
+    "meanings": [
+      "バッテリー"
+    ],
+    "exampleEn": "The battery is important.",
+    "exampleJa": "そのバッテリーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "battery"
+    ]
+  },
+  {
+    "id": "v317",
+    "word": "camera",
+    "meanings": [
+      "カメラ"
+    ],
+    "exampleEn": "The camera is important.",
+    "exampleJa": "そのカメラは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "camera"
+    ]
+  },
+  {
+    "id": "v318",
+    "word": "microphone",
+    "meanings": [
+      "マイク"
+    ],
+    "exampleEn": "The microphone is important.",
+    "exampleJa": "そのマイクは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "microphone"
+    ]
+  },
+  {
+    "id": "v319",
+    "word": "headphones",
+    "meanings": [
+      "ヘッドホン"
+    ],
+    "exampleEn": "The headphones is important.",
+    "exampleJa": "そのヘッドホンは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "headphones"
+    ]
+  },
+  {
+    "id": "v320",
+    "word": "keyboard",
+    "meanings": [
+      "キーボード"
+    ],
+    "exampleEn": "The keyboard is important.",
+    "exampleJa": "そのキーボードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "keyboard"
+    ]
+  },
+  {
+    "id": "v321",
+    "word": "mouse",
+    "meanings": [
+      "マウス"
+    ],
+    "exampleEn": "The mouse is important.",
+    "exampleJa": "そのマウスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "v322",
+    "word": "desk",
+    "meanings": [
+      "机"
+    ],
+    "exampleEn": "The desk is important.",
+    "exampleJa": "その机は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "desk"
+    ]
+  },
+  {
+    "id": "v323",
+    "word": "chair",
+    "meanings": [
+      "椅子"
+    ],
+    "exampleEn": "The chair is important.",
+    "exampleJa": "その椅子は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "chair"
+    ]
+  },
+  {
+    "id": "v324",
+    "word": "bag",
+    "meanings": [
+      "かばん"
+    ],
+    "exampleEn": "The bag is important.",
+    "exampleJa": "そのかばんは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bag"
+    ]
+  },
+  {
+    "id": "v325",
+    "word": "clothes",
+    "meanings": [
+      "服"
+    ],
+    "exampleEn": "The clothes is important.",
+    "exampleJa": "その服は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "clothes"
+    ]
+  },
+  {
+    "id": "v326",
+    "word": "shoes",
+    "meanings": [
+      "靴"
+    ],
+    "exampleEn": "The shoes is important.",
+    "exampleJa": "その靴は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "shoes"
+    ]
+  },
+  {
+    "id": "v327",
+    "word": "gift",
+    "meanings": [
+      "贈り物"
+    ],
+    "exampleEn": "The gift is important.",
+    "exampleJa": "その贈り物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "gift"
+    ]
+  },
+  {
+    "id": "v328",
+    "word": "holiday",
+    "meanings": [
+      "休日"
+    ],
+    "exampleEn": "The holiday is important.",
+    "exampleJa": "その休日は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "holiday"
+    ]
+  },
+  {
+    "id": "v329",
+    "word": "weekend",
+    "meanings": [
+      "週末"
+    ],
+    "exampleEn": "The weekend is important.",
+    "exampleJa": "その週末は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "weekend"
+    ]
+  },
+  {
+    "id": "v330",
+    "word": "appointment",
+    "meanings": [
+      "約束・予約"
+    ],
+    "exampleEn": "The appointment is important.",
+    "exampleJa": "その約束・予約は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "v331",
+    "word": "meeting",
+    "meanings": [
+      "会議"
+    ],
+    "exampleEn": "The meeting is important.",
+    "exampleJa": "その会議は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "meeting"
+    ]
+  },
+  {
+    "id": "v332",
+    "word": "deadline",
+    "meanings": [
+      "締め切り"
+    ],
+    "exampleEn": "The deadline is important.",
+    "exampleJa": "その締め切りは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "deadline"
+    ]
+  },
+  {
+    "id": "v333",
+    "word": "task",
+    "meanings": [
+      "作業"
+    ],
+    "exampleEn": "The task is important.",
+    "exampleJa": "その作業は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "task"
+    ]
+  },
+  {
+    "id": "v334",
+    "word": "project",
+    "meanings": [
+      "プロジェクト"
+    ],
+    "exampleEn": "The project is important.",
+    "exampleJa": "そのプロジェクトは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "project"
+    ]
+  },
+  {
+    "id": "v335",
+    "word": "customer",
+    "meanings": [
+      "顧客"
+    ],
+    "exampleEn": "The customer is important.",
+    "exampleJa": "その顧客は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "customer"
+    ]
+  },
+  {
+    "id": "v336",
+    "word": "manager",
+    "meanings": [
+      "管理者"
+    ],
+    "exampleEn": "The manager is important.",
+    "exampleJa": "その管理者は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "manager"
+    ]
+  },
+  {
+    "id": "v337",
+    "word": "colleague",
+    "meanings": [
+      "同僚"
+    ],
+    "exampleEn": "The colleague is important.",
+    "exampleJa": "その同僚は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "colleague"
+    ]
+  },
+  {
+    "id": "v338",
+    "word": "boss",
+    "meanings": [
+      "上司"
+    ],
+    "exampleEn": "The boss is important.",
+    "exampleJa": "その上司は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "boss"
+    ]
+  },
+  {
+    "id": "v339",
+    "word": "career",
+    "meanings": [
+      "キャリア"
+    ],
+    "exampleEn": "The career is important.",
+    "exampleJa": "そのキャリアは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "career"
+    ]
+  },
+  {
+    "id": "v340",
+    "word": "salary",
+    "meanings": [
+      "給料"
+    ],
+    "exampleEn": "The salary is important.",
+    "exampleJa": "その給料は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "salary"
+    ]
+  },
+  {
+    "id": "v341",
+    "word": "budget",
+    "meanings": [
+      "予算"
+    ],
+    "exampleEn": "The budget is important.",
+    "exampleJa": "その予算は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "budget"
+    ]
+  },
+  {
+    "id": "v342",
+    "word": "bill",
+    "meanings": [
+      "請求書"
+    ],
+    "exampleEn": "The bill is important.",
+    "exampleJa": "その請求書は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bill"
+    ]
+  },
+  {
+    "id": "v343",
+    "word": "rent",
+    "meanings": [
+      "家賃"
+    ],
+    "exampleEn": "The rent is important.",
+    "exampleJa": "その家賃は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rent"
+    ]
+  },
+  {
+    "id": "v344",
+    "word": "tax",
+    "meanings": [
+      "税金"
+    ],
+    "exampleEn": "The tax is important.",
+    "exampleJa": "その税金は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "tax"
+    ]
+  },
+  {
+    "id": "v345",
+    "word": "bank",
+    "meanings": [
+      "銀行"
+    ],
+    "exampleEn": "The bank is important.",
+    "exampleJa": "その銀行は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bank"
+    ]
+  },
+  {
+    "id": "v346",
+    "word": "card",
+    "meanings": [
+      "カード"
+    ],
+    "exampleEn": "The card is important.",
+    "exampleJa": "そのカードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "card"
+    ]
+  },
+  {
+    "id": "v347",
+    "word": "cash",
+    "meanings": [
+      "現金"
+    ],
+    "exampleEn": "The cash is important.",
+    "exampleJa": "その現金は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "cash"
+    ]
+  },
+  {
+    "id": "v348",
+    "word": "receipt",
+    "meanings": [
+      "レシート"
+    ],
+    "exampleEn": "The receipt is important.",
+    "exampleJa": "そのレシートは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "receipt"
+    ]
+  },
+  {
+    "id": "v349",
+    "word": "package",
+    "meanings": [
+      "荷物"
+    ],
+    "exampleEn": "The package is important.",
+    "exampleJa": "その荷物は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "package"
+    ]
+  },
+  {
+    "id": "v350",
+    "word": "delivery",
+    "meanings": [
+      "配達"
+    ],
+    "exampleEn": "The delivery is important.",
+    "exampleJa": "その配達は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "delivery"
+    ]
+  },
+  {
+    "id": "v351",
+    "word": "address",
+    "meanings": [
+      "住所"
+    ],
+    "exampleEn": "The address is important.",
+    "exampleJa": "その住所は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "address"
+    ]
+  },
+  {
+    "id": "v352",
+    "word": "map",
+    "meanings": [
+      "地図"
+    ],
+    "exampleEn": "The map is important.",
+    "exampleJa": "その地図は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "map"
+    ]
+  },
+  {
+    "id": "v353",
+    "word": "direction",
+    "meanings": [
+      "道順"
+    ],
+    "exampleEn": "The direction is important.",
+    "exampleJa": "その道順は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "direction"
+    ]
+  },
+  {
+    "id": "v354",
+    "word": "entrance",
+    "meanings": [
+      "入口"
+    ],
+    "exampleEn": "The entrance is important.",
+    "exampleJa": "その入口は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "entrance"
+    ]
+  },
+  {
+    "id": "v355",
+    "word": "exit",
+    "meanings": [
+      "出口"
+    ],
+    "exampleEn": "The exit is important.",
+    "exampleJa": "その出口は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "exit"
+    ]
+  },
+  {
+    "id": "v356",
+    "word": "key",
+    "meanings": [
+      "鍵"
+    ],
+    "exampleEn": "The key is important.",
+    "exampleJa": "その鍵は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "key"
+    ]
+  },
+  {
+    "id": "v357",
+    "word": "door",
+    "meanings": [
+      "ドア"
+    ],
+    "exampleEn": "The door is important.",
+    "exampleJa": "そのドアは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "door"
+    ]
+  },
+  {
+    "id": "v358",
+    "word": "window",
+    "meanings": [
+      "窓"
+    ],
+    "exampleEn": "The window is important.",
+    "exampleJa": "その窓は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "window"
+    ]
+  },
+  {
+    "id": "v359",
+    "word": "floor",
+    "meanings": [
+      "床・階"
+    ],
+    "exampleEn": "The floor is important.",
+    "exampleJa": "その床・階は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "floor"
+    ]
+  },
+  {
+    "id": "v360",
+    "word": "wall",
+    "meanings": [
+      "壁"
+    ],
+    "exampleEn": "The wall is important.",
+    "exampleJa": "その壁は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "wall"
+    ]
+  },
+  {
+    "id": "v361",
+    "word": "neighbor",
+    "meanings": [
+      "近所の人"
+    ],
+    "exampleEn": "The neighbor is important.",
+    "exampleJa": "その近所の人は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "neighbor"
+    ]
+  },
+  {
+    "id": "v362",
+    "word": "guest",
+    "meanings": [
+      "客"
+    ],
+    "exampleEn": "The guest is important.",
+    "exampleJa": "その客は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "guest"
+    ]
+  },
+  {
+    "id": "v363",
+    "word": "host",
+    "meanings": [
+      "主催者"
+    ],
+    "exampleEn": "The host is important.",
+    "exampleJa": "その主催者は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "host"
+    ]
+  },
+  {
+    "id": "v364",
+    "word": "party",
+    "meanings": [
+      "パーティー"
+    ],
+    "exampleEn": "The party is important.",
+    "exampleJa": "そのパーティーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "party"
+    ]
+  },
+  {
+    "id": "v365",
+    "word": "date",
+    "meanings": [
+      "日付・デート"
+    ],
+    "exampleEn": "The date is important.",
+    "exampleJa": "その日付・デートは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "date"
+    ]
+  },
+  {
+    "id": "v366",
+    "word": "birthday",
+    "meanings": [
+      "誕生日"
+    ],
+    "exampleEn": "The birthday is important.",
+    "exampleJa": "その誕生日は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "birthday"
+    ]
+  },
+  {
+    "id": "v367",
+    "word": "memory",
+    "meanings": [
+      "記憶"
+    ],
+    "exampleEn": "The memory is important.",
+    "exampleJa": "その記憶は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "v368",
+    "word": "dream",
+    "meanings": [
+      "夢"
+    ],
+    "exampleEn": "The dream is important.",
+    "exampleJa": "その夢は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "dream"
+    ]
+  },
+  {
+    "id": "v369",
+    "word": "fear",
+    "meanings": [
+      "恐れ"
+    ],
+    "exampleEn": "The fear is important.",
+    "exampleJa": "その恐れは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "fear"
+    ]
+  },
+  {
+    "id": "v370",
+    "word": "trust",
+    "meanings": [
+      "信頼"
+    ],
+    "exampleEn": "The trust is important.",
+    "exampleJa": "その信頼は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "trust"
+    ]
+  },
+  {
+    "id": "v371",
+    "word": "respect",
+    "meanings": [
+      "尊敬"
+    ],
+    "exampleEn": "The respect is important.",
+    "exampleJa": "その尊敬は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "respect"
+    ]
+  },
+  {
+    "id": "v372",
+    "word": "humor",
+    "meanings": [
+      "ユーモア"
+    ],
+    "exampleEn": "The humor is important.",
+    "exampleJa": "そのユーモアは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "humor"
+    ]
+  },
+  {
+    "id": "v373",
+    "word": "joke",
+    "meanings": [
+      "冗談"
+    ],
+    "exampleEn": "The joke is important.",
+    "exampleJa": "その冗談は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "joke"
+    ]
+  },
+  {
+    "id": "v374",
+    "word": "truth",
+    "meanings": [
+      "真実"
+    ],
+    "exampleEn": "The truth is important.",
+    "exampleJa": "その真実は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "truth"
+    ]
+  },
+  {
+    "id": "v375",
+    "word": "lie",
+    "meanings": [
+      "うそ"
+    ],
+    "exampleEn": "The lie is important.",
+    "exampleJa": "そのうそは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "lie"
+    ]
+  },
+  {
+    "id": "v376",
+    "word": "secret",
+    "meanings": [
+      "秘密"
+    ],
+    "exampleEn": "The secret is important.",
+    "exampleJa": "その秘密は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "secret"
+    ]
+  },
+  {
+    "id": "v377",
+    "word": "surprise",
+    "meanings": [
+      "驚き"
+    ],
+    "exampleEn": "The surprise is important.",
+    "exampleJa": "その驚きは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "v378",
+    "word": "habit",
+    "meanings": [
+      "習慣"
+    ],
+    "exampleEn": "The habit is important.",
+    "exampleJa": "その習慣は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "habit"
+    ]
+  },
+  {
+    "id": "v379",
+    "word": "behavior",
+    "meanings": [
+      "行動"
+    ],
+    "exampleEn": "The behavior is important.",
+    "exampleJa": "その行動は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "behavior"
+    ]
+  },
+  {
+    "id": "v380",
+    "word": "attitude",
+    "meanings": [
+      "態度"
+    ],
+    "exampleEn": "The attitude is important.",
+    "exampleJa": "その態度は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "attitude"
+    ]
+  },
+  {
+    "id": "v381",
+    "word": "culture",
+    "meanings": [
+      "文化"
+    ],
+    "exampleEn": "The culture is important.",
+    "exampleJa": "その文化は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "culture"
+    ]
+  },
+  {
+    "id": "v382",
+    "word": "community",
+    "meanings": [
+      "コミュニティ"
+    ],
+    "exampleEn": "The community is important.",
+    "exampleJa": "そのコミュニティは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "community"
+    ]
+  },
+  {
+    "id": "v383",
+    "word": "member",
+    "meanings": [
+      "メンバー"
+    ],
+    "exampleEn": "The member is important.",
+    "exampleJa": "そのメンバーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "member"
+    ]
+  },
+  {
+    "id": "v384",
+    "word": "leader",
+    "meanings": [
+      "リーダー"
+    ],
+    "exampleEn": "The leader is important.",
+    "exampleJa": "そのリーダーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "leader"
+    ]
+  },
+  {
+    "id": "v385",
+    "word": "role",
+    "meanings": [
+      "役割"
+    ],
+    "exampleEn": "The role is important.",
+    "exampleJa": "その役割は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "role"
+    ]
+  },
+  {
+    "id": "v386",
+    "word": "priority",
+    "meanings": [
+      "優先事項"
+    ],
+    "exampleEn": "The priority is important.",
+    "exampleJa": "その優先事項は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "priority"
+    ]
+  },
+  {
+    "id": "v387",
+    "word": "energy",
+    "meanings": [
+      "エネルギー"
+    ],
+    "exampleEn": "The energy is important.",
+    "exampleJa": "そのエネルギーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "energy"
+    ]
+  },
+  {
+    "id": "v388",
+    "word": "focus",
+    "meanings": [
+      "集中"
+    ],
+    "exampleEn": "The focus is important.",
+    "exampleJa": "その集中は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "focus"
+    ]
+  },
+  {
+    "id": "v389",
+    "word": "attention",
+    "meanings": [
+      "注意"
+    ],
+    "exampleEn": "The attention is important.",
+    "exampleJa": "その注意は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "attention"
+    ]
+  },
+  {
+    "id": "v390",
+    "word": "pressure",
+    "meanings": [
+      "プレッシャー"
+    ],
+    "exampleEn": "The pressure is important.",
+    "exampleJa": "そのプレッシャーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "pressure"
+    ]
+  },
+  {
+    "id": "v391",
+    "word": "stress",
+    "meanings": [
+      "ストレス"
+    ],
+    "exampleEn": "The stress is important.",
+    "exampleJa": "そのストレスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "stress"
+    ]
+  },
+  {
+    "id": "v392",
+    "word": "relief",
+    "meanings": [
+      "安心"
+    ],
+    "exampleEn": "The relief is important.",
+    "exampleJa": "その安心は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "relief"
+    ]
+  },
+  {
+    "id": "v393",
+    "word": "comfort",
+    "meanings": [
+      "快適さ"
+    ],
+    "exampleEn": "The comfort is important.",
+    "exampleJa": "その快適さは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "comfort"
+    ]
+  },
+  {
+    "id": "v394",
+    "word": "confidence",
+    "meanings": [
+      "自信"
+    ],
+    "exampleEn": "The confidence is important.",
+    "exampleJa": "その自信は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "confidence"
+    ]
+  },
+  {
+    "id": "v395",
+    "word": "patience",
+    "meanings": [
+      "忍耐"
+    ],
+    "exampleEn": "The patience is important.",
+    "exampleJa": "その忍耐は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "patience"
+    ]
+  },
+  {
+    "id": "v396",
+    "word": "luck",
+    "meanings": [
+      "運"
+    ],
+    "exampleEn": "The luck is important.",
+    "exampleJa": "その運は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "luck"
+    ]
+  },
+  {
+    "id": "v397",
+    "word": "opportunity",
+    "meanings": [
+      "機会"
+    ],
+    "exampleEn": "The opportunity is important.",
+    "exampleJa": "その機会は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "opportunity"
+    ]
+  },
+  {
+    "id": "v398",
+    "word": "progress",
+    "meanings": [
+      "進歩"
+    ],
+    "exampleEn": "The progress is important.",
+    "exampleJa": "その進歩は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "progress"
+    ]
+  },
+  {
+    "id": "v399",
+    "word": "growth",
+    "meanings": [
+      "成長"
+    ],
+    "exampleEn": "The growth is important.",
+    "exampleJa": "その成長は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "growth"
+    ]
+  },
+  {
+    "id": "v400",
+    "word": "future",
+    "meanings": [
+      "未来"
+    ],
+    "exampleEn": "The future is important.",
+    "exampleJa": "その未来は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "future"
+    ]
+  },
+  {
+    "id": "v401",
+    "word": "past",
+    "meanings": [
+      "過去"
+    ],
+    "exampleEn": "The past is important.",
+    "exampleJa": "その過去は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "past"
+    ]
+  },
+  {
+    "id": "v402",
+    "word": "present",
+    "meanings": [
+      "現在"
+    ],
+    "exampleEn": "The present is important.",
+    "exampleJa": "その現在は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "present"
+    ]
+  },
+  {
+    "id": "v403",
+    "word": "moment",
+    "meanings": [
+      "瞬間"
+    ],
+    "exampleEn": "The moment is important.",
+    "exampleJa": "その瞬間は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "moment"
+    ]
+  },
+  {
+    "id": "v404",
+    "word": "period",
+    "meanings": [
+      "期間"
+    ],
+    "exampleEn": "The period is important.",
+    "exampleJa": "その期間は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "period"
+    ]
+  },
+  {
+    "id": "v405",
+    "word": "minute",
+    "meanings": [
+      "分"
+    ],
+    "exampleEn": "The minute is important.",
+    "exampleJa": "その分は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "minute"
+    ]
+  },
+  {
+    "id": "v406",
+    "word": "hour",
+    "meanings": [
+      "時間"
+    ],
+    "exampleEn": "The hour is important.",
+    "exampleJa": "その時間は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "hour"
+    ]
+  },
+  {
+    "id": "v407",
+    "word": "age",
+    "meanings": [
+      "年齢"
+    ],
+    "exampleEn": "The age is important.",
+    "exampleJa": "その年齢は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "age"
+    ]
+  },
+  {
+    "id": "v408",
+    "word": "size",
+    "meanings": [
+      "大きさ"
+    ],
+    "exampleEn": "The size is important.",
+    "exampleJa": "その大きさは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "size"
+    ]
+  },
+  {
+    "id": "v409",
+    "word": "shape",
+    "meanings": [
+      "形"
+    ],
+    "exampleEn": "The shape is important.",
+    "exampleJa": "その形は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "shape"
+    ]
+  },
+  {
+    "id": "v410",
+    "word": "color",
+    "meanings": [
+      "色"
+    ],
+    "exampleEn": "The color is important.",
+    "exampleJa": "その色は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "color"
+    ]
+  },
+  {
+    "id": "v411",
+    "word": "kind",
+    "meanings": [
+      "種類"
+    ],
+    "exampleEn": "The kind is important.",
+    "exampleJa": "その種類は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "kind"
+    ]
+  },
+  {
+    "id": "v412",
+    "word": "type",
+    "meanings": [
+      "タイプ"
+    ],
+    "exampleEn": "The type is important.",
+    "exampleJa": "そのタイプは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "type"
+    ]
+  },
+  {
+    "id": "v413",
+    "word": "style",
+    "meanings": [
+      "スタイル"
+    ],
+    "exampleEn": "The style is important.",
+    "exampleJa": "そのスタイルは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "style"
+    ]
+  },
+  {
+    "id": "v414",
+    "word": "quality",
+    "meanings": [
+      "品質"
+    ],
+    "exampleEn": "The quality is important.",
+    "exampleJa": "その品質は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "quality"
+    ]
+  },
+  {
+    "id": "v415",
+    "word": "value",
+    "meanings": [
+      "価値"
+    ],
+    "exampleEn": "The value is important.",
+    "exampleJa": "その価値は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "value"
+    ]
+  },
+  {
+    "id": "v416",
+    "word": "limit",
+    "meanings": [
+      "限界"
+    ],
+    "exampleEn": "The limit is important.",
+    "exampleJa": "その限界は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "limit"
+    ]
+  },
+  {
+    "id": "v417",
+    "word": "amount",
+    "meanings": [
+      "量"
+    ],
+    "exampleEn": "The amount is important.",
+    "exampleJa": "その量は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "amount"
+    ]
+  },
+  {
+    "id": "v418",
+    "word": "total",
+    "meanings": [
+      "合計"
+    ],
+    "exampleEn": "The total is important.",
+    "exampleJa": "その合計は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "total"
+    ]
+  },
+  {
+    "id": "v419",
+    "word": "average",
+    "meanings": [
+      "平均"
+    ],
+    "exampleEn": "The average is important.",
+    "exampleJa": "その平均は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "average"
+    ]
+  },
+  {
+    "id": "v420",
+    "word": "rate",
+    "meanings": [
+      "割合"
+    ],
+    "exampleEn": "The rate is important.",
+    "exampleJa": "その割合は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rate"
+    ]
+  },
+  {
+    "id": "v421",
+    "word": "pattern",
+    "meanings": [
+      "パターン"
+    ],
+    "exampleEn": "The pattern is important.",
+    "exampleJa": "そのパターンは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "pattern"
+    ]
+  },
+  {
+    "id": "v422",
+    "word": "trend",
+    "meanings": [
+      "傾向"
+    ],
+    "exampleEn": "The trend is important.",
+    "exampleJa": "その傾向は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "trend"
+    ]
+  },
+  {
+    "id": "v423",
+    "word": "difference",
+    "meanings": [
+      "違い"
+    ],
+    "exampleEn": "The difference is important.",
+    "exampleJa": "その違いは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "difference"
+    ]
+  },
+  {
+    "id": "v424",
+    "word": "connection",
+    "meanings": [
+      "つながり"
+    ],
+    "exampleEn": "The connection is important.",
+    "exampleJa": "そのつながりは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "connection"
+    ]
+  },
+  {
+    "id": "v425",
+    "word": "effect",
+    "meanings": [
+      "影響・効果"
+    ],
+    "exampleEn": "The effect is important.",
+    "exampleJa": "その影響・効果は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "effect"
+    ]
+  },
+  {
+    "id": "v426",
+    "word": "cause",
+    "meanings": [
+      "原因"
+    ],
+    "exampleEn": "The cause is important.",
+    "exampleJa": "その原因は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "cause"
+    ]
+  },
+  {
+    "id": "v427",
+    "word": "impact",
+    "meanings": [
+      "影響"
+    ],
+    "exampleEn": "The impact is important.",
+    "exampleJa": "その影響は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "impact"
+    ]
+  },
+  {
+    "id": "v428",
+    "word": "benefit",
+    "meanings": [
+      "利点"
+    ],
+    "exampleEn": "The benefit is important.",
+    "exampleJa": "その利点は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "benefit"
+    ]
+  },
+  {
+    "id": "v429",
+    "word": "risk",
+    "meanings": [
+      "リスク"
+    ],
+    "exampleEn": "The risk is important.",
+    "exampleJa": "そのリスクは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "risk"
+    ]
+  },
+  {
+    "id": "v430",
+    "word": "danger",
+    "meanings": [
+      "危険"
+    ],
+    "exampleEn": "The danger is important.",
+    "exampleJa": "その危険は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "danger"
+    ]
+  },
+  {
+    "id": "v431",
+    "word": "warning",
+    "meanings": [
+      "警告"
+    ],
+    "exampleEn": "The warning is important.",
+    "exampleJa": "その警告は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "warning"
+    ]
+  },
+  {
+    "id": "v432",
+    "word": "solution",
+    "meanings": [
+      "解決策"
+    ],
+    "exampleEn": "The solution is important.",
+    "exampleJa": "その解決策は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "solution"
+    ]
+  },
+  {
+    "id": "v433",
+    "word": "response",
+    "meanings": [
+      "返答"
+    ],
+    "exampleEn": "The response is important.",
+    "exampleJa": "その返答は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "response"
+    ]
+  },
+  {
+    "id": "v434",
+    "word": "reaction",
+    "meanings": [
+      "反応"
+    ],
+    "exampleEn": "The reaction is important.",
+    "exampleJa": "その反応は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "reaction"
+    ]
+  },
+  {
+    "id": "v435",
+    "word": "feedback",
+    "meanings": [
+      "フィードバック"
+    ],
+    "exampleEn": "The feedback is important.",
+    "exampleJa": "そのフィードバックは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "feedback"
+    ]
+  },
+  {
+    "id": "v436",
+    "word": "request",
+    "meanings": [
+      "依頼"
+    ],
+    "exampleEn": "The request is important.",
+    "exampleJa": "その依頼は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "request"
+    ]
+  },
+  {
+    "id": "v437",
+    "word": "promise",
+    "meanings": [
+      "約束"
+    ],
+    "exampleEn": "The promise is important.",
+    "exampleJa": "その約束は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "promise"
+    ]
+  },
+  {
+    "id": "v438",
+    "word": "agreement",
+    "meanings": [
+      "合意"
+    ],
+    "exampleEn": "The agreement is important.",
+    "exampleJa": "その合意は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "agreement"
+    ]
+  },
+  {
+    "id": "v439",
+    "word": "argument",
+    "meanings": [
+      "口論・議論"
+    ],
+    "exampleEn": "The argument is important.",
+    "exampleJa": "その口論・議論は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "argument"
+    ]
+  },
+  {
+    "id": "v440",
+    "word": "discussion",
+    "meanings": [
+      "議論"
+    ],
+    "exampleEn": "The discussion is important.",
+    "exampleJa": "その議論は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "discussion"
+    ]
+  },
+  {
+    "id": "v441",
+    "word": "debate",
+    "meanings": [
+      "討論"
+    ],
+    "exampleEn": "The debate is important.",
+    "exampleJa": "その討論は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "debate"
+    ]
+  },
+  {
+    "id": "v442",
+    "word": "explanation",
+    "meanings": [
+      "説明"
+    ],
+    "exampleEn": "The explanation is important.",
+    "exampleJa": "その説明は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "explanation"
+    ]
+  },
+  {
+    "id": "v443",
+    "word": "description",
+    "meanings": [
+      "描写"
+    ],
+    "exampleEn": "The description is important.",
+    "exampleJa": "その描写は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "description"
+    ]
+  },
+  {
+    "id": "v444",
+    "word": "translation",
+    "meanings": [
+      "翻訳"
+    ],
+    "exampleEn": "The translation is important.",
+    "exampleJa": "その翻訳は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "translation"
+    ]
+  },
+  {
+    "id": "v445",
+    "word": "subtitle",
+    "meanings": [
+      "字幕"
+    ],
+    "exampleEn": "The subtitle is important.",
+    "exampleJa": "その字幕は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "subtitle"
+    ]
+  },
+  {
+    "id": "v446",
+    "word": "title",
+    "meanings": [
+      "タイトル"
+    ],
+    "exampleEn": "The title is important.",
+    "exampleJa": "そのタイトルは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "title"
+    ]
+  },
+  {
+    "id": "v447",
+    "word": "review",
+    "meanings": [
+      "レビュー"
+    ],
+    "exampleEn": "The review is important.",
+    "exampleJa": "そのレビューは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "review"
+    ]
+  },
+  {
+    "id": "v448",
+    "word": "rating",
+    "meanings": [
+      "評価"
+    ],
+    "exampleEn": "The rating is important.",
+    "exampleJa": "その評価は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "rating"
+    ]
+  },
+  {
+    "id": "v449",
+    "word": "recommendation",
+    "meanings": [
+      "おすすめ"
+    ],
+    "exampleEn": "The recommendation is important.",
+    "exampleJa": "そのおすすめは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "recommendation"
+    ]
+  },
+  {
+    "id": "v450",
+    "word": "advertisement",
+    "meanings": [
+      "広告"
+    ],
+    "exampleEn": "The advertisement is important.",
+    "exampleJa": "その広告は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "advertisement"
+    ]
+  },
+  {
+    "id": "v451",
+    "word": "brand",
+    "meanings": [
+      "ブランド"
+    ],
+    "exampleEn": "The brand is important.",
+    "exampleJa": "そのブランドは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "brand"
+    ]
+  },
+  {
+    "id": "v452",
+    "word": "product",
+    "meanings": [
+      "製品"
+    ],
+    "exampleEn": "The product is important.",
+    "exampleJa": "その製品は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "product"
+    ]
+  },
+  {
+    "id": "v453",
+    "word": "market",
+    "meanings": [
+      "市場"
+    ],
+    "exampleEn": "The market is important.",
+    "exampleJa": "その市場は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "market"
+    ]
+  },
+  {
+    "id": "v454",
+    "word": "industry",
+    "meanings": [
+      "業界"
+    ],
+    "exampleEn": "The industry is important.",
+    "exampleJa": "その業界は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "industry"
+    ]
+  },
+  {
+    "id": "v455",
+    "word": "organization",
+    "meanings": [
+      "組織"
+    ],
+    "exampleEn": "The organization is important.",
+    "exampleJa": "その組織は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "organization"
+    ]
+  },
+  {
+    "id": "v456",
+    "word": "office",
+    "meanings": [
+      "オフィス"
+    ],
+    "exampleEn": "The office is important.",
+    "exampleJa": "そのオフィスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "office"
+    ]
+  },
+  {
+    "id": "v457",
+    "word": "department",
+    "meanings": [
+      "部署"
+    ],
+    "exampleEn": "The department is important.",
+    "exampleJa": "その部署は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "department"
+    ]
+  },
+  {
+    "id": "v458",
+    "word": "policy",
+    "meanings": [
+      "方針"
+    ],
+    "exampleEn": "The policy is important.",
+    "exampleJa": "その方針は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "policy"
+    ]
+  },
+  {
+    "id": "v459",
+    "word": "contract",
+    "meanings": [
+      "契約"
+    ],
+    "exampleEn": "The contract is important.",
+    "exampleJa": "その契約は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "contract"
+    ]
+  },
+  {
+    "id": "v460",
+    "word": "document",
+    "meanings": [
+      "書類"
+    ],
+    "exampleEn": "The document is important.",
+    "exampleJa": "その書類は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "document"
+    ]
+  },
+  {
+    "id": "v461",
+    "word": "form",
+    "meanings": [
+      "フォーム"
+    ],
+    "exampleEn": "The form is important.",
+    "exampleJa": "そのフォームは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "form"
+    ]
+  },
+  {
+    "id": "v462",
+    "word": "record",
+    "meanings": [
+      "記録"
+    ],
+    "exampleEn": "The record is important.",
+    "exampleJa": "その記録は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "record"
+    ]
+  },
+  {
+    "id": "v463",
+    "word": "history",
+    "meanings": [
+      "履歴・歴史"
+    ],
+    "exampleEn": "The history is important.",
+    "exampleJa": "その履歴・歴史は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "history"
+    ]
+  },
+  {
+    "id": "v464",
+    "word": "profile",
+    "meanings": [
+      "プロフィール"
+    ],
+    "exampleEn": "The profile is important.",
+    "exampleJa": "そのプロフィールは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "profile"
+    ]
+  },
+  {
+    "id": "v465",
+    "word": "privacy",
+    "meanings": [
+      "プライバシー"
+    ],
+    "exampleEn": "The privacy is important.",
+    "exampleJa": "そのプライバシーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "privacy"
+    ]
+  },
+  {
+    "id": "v466",
+    "word": "security",
+    "meanings": [
+      "セキュリティ"
+    ],
+    "exampleEn": "The security is important.",
+    "exampleJa": "そのセキュリティは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "security"
+    ]
+  },
+  {
+    "id": "v467",
+    "word": "permission",
+    "meanings": [
+      "許可"
+    ],
+    "exampleEn": "The permission is important.",
+    "exampleJa": "その許可は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "permission"
+    ]
+  },
+  {
+    "id": "v468",
+    "word": "access",
+    "meanings": [
+      "アクセス"
+    ],
+    "exampleEn": "The access is important.",
+    "exampleJa": "そのアクセスは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "access"
+    ]
+  },
+  {
+    "id": "v469",
+    "word": "link",
+    "meanings": [
+      "リンク"
+    ],
+    "exampleEn": "The link is important.",
+    "exampleJa": "そのリンクは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "link"
+    ]
+  },
+  {
+    "id": "v470",
+    "word": "page",
+    "meanings": [
+      "ページ"
+    ],
+    "exampleEn": "The page is important.",
+    "exampleJa": "そのページは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "page"
+    ]
+  },
+  {
+    "id": "v471",
+    "word": "tab",
+    "meanings": [
+      "タブ"
+    ],
+    "exampleEn": "The tab is important.",
+    "exampleJa": "そのタブは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "tab"
+    ]
+  },
+  {
+    "id": "v472",
+    "word": "menu",
+    "meanings": [
+      "メニュー"
+    ],
+    "exampleEn": "The menu is important.",
+    "exampleJa": "そのメニューは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "menu"
+    ]
+  },
+  {
+    "id": "v473",
+    "word": "search",
+    "meanings": [
+      "検索"
+    ],
+    "exampleEn": "The search is important.",
+    "exampleJa": "その検索は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "search"
+    ]
+  },
+  {
+    "id": "v474",
+    "word": "filter",
+    "meanings": [
+      "絞り込み"
+    ],
+    "exampleEn": "The filter is important.",
+    "exampleJa": "その絞り込みは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "filter"
+    ]
+  },
+  {
+    "id": "v475",
+    "word": "list",
+    "meanings": [
+      "一覧"
+    ],
+    "exampleEn": "The list is important.",
+    "exampleJa": "その一覧は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "list"
+    ]
+  },
+  {
+    "id": "v476",
+    "word": "folder",
+    "meanings": [
+      "フォルダー"
+    ],
+    "exampleEn": "The folder is important.",
+    "exampleJa": "そのフォルダーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "folder"
+    ]
+  },
+  {
+    "id": "v477",
+    "word": "backup",
+    "meanings": [
+      "バックアップ"
+    ],
+    "exampleEn": "The backup is important.",
+    "exampleJa": "そのバックアップは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "backup"
+    ]
+  },
+  {
+    "id": "v478",
+    "word": "storage",
+    "meanings": [
+      "保存領域"
+    ],
+    "exampleEn": "The storage is important.",
+    "exampleJa": "その保存領域は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "storage"
+    ]
+  },
+  {
+    "id": "v479",
+    "word": "error",
+    "meanings": [
+      "エラー"
+    ],
+    "exampleEn": "The error is important.",
+    "exampleJa": "そのエラーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "error"
+    ]
+  },
+  {
+    "id": "v480",
+    "word": "bug",
+    "meanings": [
+      "不具合"
+    ],
+    "exampleEn": "The bug is important.",
+    "exampleJa": "その不具合は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "bug"
+    ]
+  },
+  {
+    "id": "v481",
+    "word": "version",
+    "meanings": [
+      "バージョン"
+    ],
+    "exampleEn": "The version is important.",
+    "exampleJa": "そのバージョンは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "version"
+    ]
+  },
+  {
+    "id": "v482",
+    "word": "release",
+    "meanings": [
+      "公開・リリース"
+    ],
+    "exampleEn": "The release is important.",
+    "exampleJa": "その公開・リリースは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "release"
+    ]
+  },
+  {
+    "id": "v483",
+    "word": "launch",
+    "meanings": [
+      "開始・発売"
+    ],
+    "exampleEn": "The launch is important.",
+    "exampleJa": "その開始・発売は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "launch"
+    ]
+  },
+  {
+    "id": "v484",
+    "word": "download",
+    "meanings": [
+      "ダウンロード"
+    ],
+    "exampleEn": "The download is important.",
+    "exampleJa": "そのダウンロードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "download"
+    ]
+  },
+  {
+    "id": "v485",
+    "word": "upload",
+    "meanings": [
+      "アップロード"
+    ],
+    "exampleEn": "The upload is important.",
+    "exampleJa": "そのアップロードは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "upload"
+    ]
+  },
+  {
+    "id": "v486",
+    "word": "install",
+    "meanings": [
+      "インストール"
+    ],
+    "exampleEn": "The install is important.",
+    "exampleJa": "そのインストールは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "install"
+    ]
+  },
+  {
+    "id": "v487",
+    "word": "browser",
+    "meanings": [
+      "ブラウザー"
+    ],
+    "exampleEn": "The browser is important.",
+    "exampleJa": "そのブラウザーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "browser"
+    ]
+  },
+  {
+    "id": "v488",
+    "word": "server",
+    "meanings": [
+      "サーバー"
+    ],
+    "exampleEn": "The server is important.",
+    "exampleJa": "そのサーバーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "server"
+    ]
+  },
+  {
+    "id": "v489",
+    "word": "cloud",
+    "meanings": [
+      "クラウド"
+    ],
+    "exampleEn": "The cloud is important.",
+    "exampleJa": "そのクラウドは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "cloud"
+    ]
+  },
+  {
+    "id": "v490",
+    "word": "notification",
+    "meanings": [
+      "通知"
+    ],
+    "exampleEn": "The notification is important.",
+    "exampleJa": "その通知は重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "notification"
+    ]
+  },
+  {
+    "id": "v491",
+    "word": "reminder",
+    "meanings": [
+      "リマインダー"
+    ],
+    "exampleEn": "The reminder is important.",
+    "exampleJa": "そのリマインダーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "reminder"
+    ]
+  },
+  {
+    "id": "v492",
+    "word": "calendar",
+    "meanings": [
+      "カレンダー"
+    ],
+    "exampleEn": "The calendar is important.",
+    "exampleJa": "そのカレンダーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "calendar"
+    ]
+  },
+  {
+    "id": "v493",
+    "word": "alarm",
+    "meanings": [
+      "アラーム"
+    ],
+    "exampleEn": "The alarm is important.",
+    "exampleJa": "そのアラームは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "alarm"
+    ]
+  },
+  {
+    "id": "v494",
+    "word": "timer",
+    "meanings": [
+      "タイマー"
+    ],
+    "exampleEn": "The timer is important.",
+    "exampleJa": "そのタイマーは重要です。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "acceptedAnswers": [
+      "timer"
+    ]
+  },
+  {
+    "id": "v495",
+    "word": "good",
+    "meanings": [
+      "良い"
+    ],
+    "exampleEn": "That sounds good.",
+    "exampleJa": "それは良いそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "good"
+    ]
+  },
+  {
+    "id": "v496",
+    "word": "bad",
+    "meanings": [
+      "悪い"
+    ],
+    "exampleEn": "That sounds bad.",
+    "exampleJa": "それは悪いそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "bad"
+    ]
+  },
+  {
+    "id": "v497",
+    "word": "great",
+    "meanings": [
+      "素晴らしい"
+    ],
+    "exampleEn": "That sounds great.",
+    "exampleJa": "それは素晴らしいそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "great"
+    ]
+  },
+  {
+    "id": "v498",
+    "word": "small",
+    "meanings": [
+      "小さい"
+    ],
+    "exampleEn": "That sounds small.",
+    "exampleJa": "それは小さいそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "small"
+    ]
+  },
+  {
+    "id": "v499",
+    "word": "large",
+    "meanings": [
+      "大きい"
+    ],
+    "exampleEn": "That sounds large.",
+    "exampleJa": "それは大きいそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "large"
+    ]
+  },
+  {
+    "id": "v500",
+    "word": "big",
+    "meanings": [
+      "大きい"
+    ],
+    "exampleEn": "That sounds big.",
+    "exampleJa": "それは大きいそうです。",
+    "pronunciation": "",
+    "audioUrl": "",
+    "level": "intermediate",
+    "category": [
+      "daily"
+    ],
+    "tags": [
+      "adj"
+    ],
+    "acceptedAnswers": [
+      "big"
+    ]
+  }
+]
