@@ -1,6 +1,6 @@
 const DB_NAME = 'wordstep-db';
 const DB_VERSION = 1;
-const WORDS_URL = './public/data/words.json';
+const WORDS_URL = './data/words.json';
 const app = document.getElementById('app');
 const installButton = document.getElementById('installButton');
 let db;
