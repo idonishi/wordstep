@@ -1,0 +1,2 @@
+# wordstep
+english_vocabulary
